@@ -1,0 +1,263 @@
+#EXTM3U
+#EXT-X-APP APTV
+
+#EXTINF:-1 tvg-id="庆余年一轮播" tvg-name="庆余年一轮播" tvg-logo="https://epg.112114.xyz/logo/庆余年一轮播.png" group-title="🌟经典电视剧🌟",庆余年 1
+http://103.193.151.146/huya.php?id=11352960
+#EXTINF:-1 tvg-id="庆余年一轮播" tvg-name="庆余年一轮播" tvg-logo="https://epg.112114.xyz/logo/庆余年一轮播.png" group-title="🌟经典电视剧🌟",庆余年 2
+http://103.193.151.146/huya.php?id=11352960
+#EXTINF:-1 tvg-id="庆余年二轮播" tvg-name="庆余年二轮播" tvg-logo="https://epg.112114.xyz/logo/庆余年二轮播.png" group-title="🌟经典电视剧🌟",庆余年 3
+http://103.193.151.146/huya.php?id=23740156
+#EXTINF:-1 tvg-id="甄嬛传" tvg-name="甄嬛传" tvg-logo="https://epg.112114.xyz/logo/甄嬛传.png" group-title="🌟经典电视剧🌟",甄嬛传
+http://103.193.151.146/huya.php?id=11601971
+#EXTINF:-1 tvg-id="如懿传电视剧" tvg-name="如懿传电视剧" tvg-logo="https://epg.112114.xyz/logo/如懿传电视剧.png" group-title="🌟经典电视剧🌟",如懿传
+http://103.193.151.146/huya.php?id=29465868
+#EXTINF:-1 tvg-id="芈月传电视剧" tvg-name="芈月传电视剧" tvg-logo="https://epg.112114.xyz/logo/芈月传电视剧.png" group-title="🌟经典电视剧🌟",芈月传
+http://103.193.151.146/huya.php?id=11352975
+#EXTINF:-1 tvg-id="延禧攻略轮播" tvg-name="延禧攻略轮播" tvg-logo="https://epg.112114.xyz/logo/延禧攻略轮播.png" group-title="🌟经典电视剧🌟",延禧攻略
+http://103.193.151.146/huya.php?id=26355864
+#EXTINF:-1 tvg-id="鬼吹灯" tvg-name="鬼吹灯" tvg-logo="https://epg.112114.xyz/logo/鬼吹灯.png" group-title="🌟经典电视剧🌟",鬼吹灯
+http://103.193.151.146/huya.php?id=11352871
+#EXTINF:-1 tvg-id="宝莲灯" tvg-name="宝莲灯" tvg-logo="https://epg.112114.xyz/logo/宝莲灯.png" group-title="🌟经典电视剧🌟",宝莲灯
+http://103.193.151.146/huya.php?id=21059563
+#EXTINF:-1 tvg-id="鹿鼎记" tvg-name="鹿鼎记" tvg-logo="https://epg.112114.xyz/logo/鹿鼎记.png" group-title="🌟经典电视剧🌟",鹿鼎记
+http://103.193.151.146/huya.php?id=23865080
+#EXTINF:-1 tvg-id="洗冤录" tvg-name="洗冤录" tvg-logo="https://epg.112114.xyz/logo/洗冤录.png" group-title="🌟经典电视剧🌟",洗冤录
+http://103.193.151.146/huya.php?id=23903130
+#EXTINF:-1 tvg-id="寻秦记" tvg-name="寻秦记" tvg-logo="https://epg.112114.xyz/logo/寻秦记.png" group-title="🌟经典电视剧🌟",寻秦记
+http://103.193.151.146/huya.php?id=23864973
+#EXTINF:-1 tvg-id="柳舟记电视剧" tvg-name="柳舟记电视剧" tvg-logo="https://epg.112114.xyz/logo/柳舟记电视剧.png" group-title="🌟经典电视剧🌟",柳舟记
+http://103.193.151.146/huya.php?id=23860039
+#EXTINF:-1 tvg-id="开端电视轮播" tvg-name="开端电视轮播" tvg-logo="https://epg.112114.xyz/logo/开端电视轮播.png" group-title="🌟经典电视剧🌟",开端
+http://103.193.151.146/huya.php?id=11342397
+#EXTINF:-1 tvg-id="渗透电视轮播" tvg-name="渗透电视轮播" tvg-logo="https://epg.112114.xyz/logo/渗透电视轮播.png" group-title="🌟经典电视剧🌟",渗透
+http://103.193.151.146/huya.php?id=30080244
+#EXTINF:-1 tvg-id="亮剑电视轮播" tvg-name="亮剑电视轮播" tvg-logo="https://epg.112114.xyz/logo/亮剑电视轮播.png" group-title="🌟经典电视剧🌟",亮剑
+http://103.193.151.146/huya.php?id=30080238
+#EXTINF:-1 tvg-id="雪豹电视轮播" tvg-name="雪豹电视轮播" tvg-logo="https://epg.112114.xyz/logo/雪豹电视轮播.png" group-title="🌟经典电视剧🌟",雪豹
+http://103.193.151.146/huya.php?id=29580970
+#EXTINF:-1 tvg-id="赵家班" tvg-name="赵家班" tvg-logo="https://epg.112114.xyz/logo/赵家班.png" group-title="🌟经典电视剧🌟",赵家班
+http://103.193.151.146/huya.php?id=11352938
+#EXTINF:-1 tvg-id="婆媳间" tvg-name="婆媳间" tvg-logo="https://epg.112114.xyz/logo/婆媳间.png" group-title="🌟经典电视剧🌟",婆媳间
+http://103.193.151.146/huya.php?id=21059568
+#EXTINF:-1 tvg-id="捉妖记" tvg-name="捉妖记" tvg-logo="https://epg.112114.xyz/logo/捉妖记.png" group-title="🌟经典电视剧🌟",捉妖记
+http://103.193.151.146/huya.php?id=11342414
+#EXTINF:-1 tvg-id="好先生" tvg-name="好先生" tvg-logo="https://epg.112114.xyz/logo/好先生.png" group-title="🌟经典电视剧🌟",好先生
+http://103.193.151.146/huya.php?id=11602088
+#EXTINF:-1 tvg-id="铁梨花" tvg-name="铁梨花" tvg-logo="https://epg.112114.xyz/logo/铁梨花.png" group-title="🌟经典电视剧🌟",铁梨花
+http://103.193.151.146/huya.php?id=11352912
+#EXTINF:-1 tvg-id="神话片" tvg-name="神话片" tvg-logo="https://epg.112114.xyz/logo/神话片.png" group-title="🌟经典电视剧🌟",神话片
+http://103.193.151.146/huya.php?id=11352913
+#EXTINF:-1 tvg-id="特工007" tvg-name="特工007" tvg-logo="https://epg.112114.xyz/logo/特工.png" group-title="🌟经典电视剧🌟",特工007
+http://103.193.151.146/huya.php?id=21059585
+#EXTINF:-1 tvg-id="传闻中的芊芊" tvg-name="传闻中的芊芊" tvg-logo="https://epg.112114.xyz/logo/传闻中的芊芊.png" group-title="🌟经典电视剧🌟",传闻中的芊芊
+http://103.193.151.146/huya.php?id=21059608
+#EXTINF:-1 tvg-id="笑傲江湖" tvg-name="笑傲江湖" tvg-logo="https://epg.112114.xyz/logo/笑傲江湖.png" group-title="🌟经典电视剧🌟",笑傲江湖
+http://103.193.151.146/huya.php?id=23865142
+#EXTINF:-1 tvg-id="神雕侠侣" tvg-name="神雕侠侣" tvg-logo="https://epg.112114.xyz/logo/神雕侠侣.png" group-title="🌟经典电视剧🌟",神雕侠侣
+http://103.193.151.146/huya.php?id=23865171
+#EXTINF:-1 tvg-id="楚汉骄雄" tvg-name="楚汉骄雄" tvg-logo="https://epg.112114.xyz/logo/楚汉骄雄.png" group-title="🌟经典电视剧🌟",楚汉骄雄
+http://103.193.151.146/huya.php?id=23740156
+#EXTINF:-1 tvg-id="金枝欲孽" tvg-name="金枝欲孽" tvg-logo="https://epg.112114.xyz/logo/金枝欲孽.png" group-title="🌟经典电视剧🌟",金枝欲孽
+http://103.193.151.146/huya.php?id=23865036
+#EXTINF:-1 tvg-id="雍正王朝" tvg-name="雍正王朝" tvg-logo="https://epg.112114.xyz/logo/雍正王朝.png" group-title="🌟经典电视剧🌟",雍正王朝
+http://103.193.151.146/huya.php?id=11342439
+#EXTINF:-1 tvg-id="康熙王朝" tvg-name="康熙王朝" tvg-logo="https://epg.112114.xyz/logo/康熙王朝.png" group-title="🌟经典电视剧🌟",康熙王朝
+http://103.193.151.146/huya.php?id=11352940
+#EXTINF:-1 tvg-id="三国演义" tvg-name="三国演义" tvg-logo="https://epg.112114.xyz/logo/三国演义.png" group-title="🌟经典电视剧🌟",三国演义
+http://103.193.151.146/huya.php?id=11602081
+#EXTINF:-1 tvg-id="法证先锋" tvg-name="法证先锋" tvg-logo="https://epg.112114.xyz/logo/法证先锋.png" group-title="🌟经典电视剧🌟",法证先锋
+http://103.193.151.146/huya.php?id=23863804
+#EXTINF:-1 tvg-id="爱情公寓" tvg-name="爱情公寓" tvg-logo="https://epg.112114.xyz/logo/爱情公寓.png" group-title="🌟经典电视剧🌟",爱情公寓
+http://103.193.151.146/huya.php?id=11336726
+#EXTINF:-1 tvg-id="家有儿女" tvg-name="家有儿女" tvg-logo="https://epg.112114.xyz/logo/家有儿女.png" group-title="🌟经典电视剧🌟",家有儿女
+http://103.193.151.146/huya.php?id=11352872
+#EXTINF:-1 tvg-id="士兵突击" tvg-name="士兵突击" tvg-logo="https://epg.112114.xyz/logo/士兵突击.png" group-title="🌟经典电视剧🌟",士兵突击
+http://103.193.151.146/huya.php?id=11342430
+#EXTINF:-1 tvg-id="父母爱情" tvg-name="父母爱情" tvg-logo="https://epg.112114.xyz/logo/父母爱情.png" group-title="🌟经典电视剧🌟",父母爱情
+http://103.193.151.146/huya.php?id=11602071
+#EXTINF:-1 tvg-id="终极三国" tvg-name="终极三国" tvg-logo="https://epg.112114.xyz/logo/终极三国.png" group-title="🌟经典电视剧🌟",终极三国
+http://103.193.151.146/huya.php?id=21059562
+#EXTINF:-1 tvg-id="龙门镖局" tvg-name="龙门镖局" tvg-logo="https://epg.112114.xyz/logo/龙门镖局.png" group-title="🌟经典电视剧🌟",龙门镖局
+http://103.193.151.146/huya.php?id=11352874
+#EXTINF:-1 tvg-id="网球王子" tvg-name="网球王子" tvg-logo="https://epg.112114.xyz/logo/网球王子.png" group-title="🌟经典电视剧🌟",网球王子
+http://103.193.151.146/huya.php?id=11352882
+#EXTINF:-1 tvg-id="龙岭迷窟" tvg-name="龙岭迷窟" tvg-logo="https://epg.112114.xyz/logo/龙岭迷窟.png" group-title="🌟经典电视剧🌟",龙岭迷窟
+http://103.193.151.146/huya.php?id=29465863
+#EXTINF:-1 tvg-id="昆仑神宫" tvg-name="昆仑神宫" tvg-logo="https://epg.112114.xyz/logo/昆仑神宫.png" group-title="🌟经典电视剧🌟",昆仑神宫
+http://103.193.151.146/huya.php?id=11601957
+#EXTINF:-1 tvg-id="怒晴湘西" tvg-name="怒晴湘西" tvg-logo="https://epg.112114.xyz/logo/怒晴湘西.png" group-title="🌟经典电视剧🌟",怒晴湘西
+http://103.193.151.146/huya.php?id=11602075
+#EXTINF:-1 tvg-id="云南虫谷" tvg-name="云南虫谷" tvg-logo="https://epg.112114.xyz/logo/云南虫谷.png" group-title="🌟经典电视剧🌟",云南虫谷
+http://103.193.151.146/huya.php?id=11352898
+#EXTINF:-1 tvg-id="南海归墟" tvg-name="南海归墟" tvg-logo="https://epg.112114.xyz/logo/南海归墟.png" group-title="🌟经典电视剧🌟",南海归墟
+http://103.193.151.146/huya.php?id=11352883
+#EXTINF:-1 tvg-id="雪山飞狐" tvg-name="雪山飞狐" tvg-logo="https://epg.112114.xyz/logo/雪山飞狐.png" group-title="🌟经典电视剧🌟",雪山飞狐
+http://103.193.151.146/huya.php?id=11352952
+#EXTINF:-1 tvg-id="红海行动" tvg-name="红海行动" tvg-logo="https://epg.112114.xyz/logo/红海行动.png" group-title="🌟经典电视剧🌟",红海行动
+http://103.193.151.146/huya.php?id=11601986
+#EXTINF:-1 tvg-id="古装情感" tvg-name="古装情感" tvg-logo="https://epg.112114.xyz/logo/古装情感.png" group-title="🌟经典电视剧🌟",古装情感
+http://103.193.151.146/huya.php?id=11352881
+#EXTINF:-1 tvg-id="犯罪影片" tvg-name="犯罪影片" tvg-logo="https://epg.112114.xyz/logo/犯罪影片.png" group-title="🌟经典电视剧🌟",犯罪影片
+http://103.193.151.146/huya.php?id=11352962
+#EXTINF:-1 tvg-id="港产搞笑" tvg-name="港产搞笑" tvg-logo="https://epg.112114.xyz/logo/港产搞笑.png" group-title="🌟经典电视剧🌟",港产搞笑
+http://103.193.151.146/huya.php?id=11601960
+#EXTINF:-1 tvg-id="港台警匪" tvg-name="港台警匪" tvg-logo="https://epg.112114.xyz/logo/港台警匪.png" group-title="🌟经典电视剧🌟",港台警匪
+http://103.193.151.146/huya.php?id=11352886
+#EXTINF:-1 tvg-id="哆啦 A梦" tvg-name="哆啦 A梦" tvg-logo="https://epg.112114.xyz/logo/哆啦A梦.png" group-title="🌟经典电视剧🌟",哆啦 A梦
+http://103.193.151.146/huya.php?id=11601963
+#EXTINF:-1 tvg-id="猫和老鼠" tvg-name="猫和老鼠" tvg-logo="https://epg.112114.xyz/logo/猫和老鼠.png" group-title="🌟经典电视剧🌟",猫和老鼠
+http://103.193.151.146/huya.php?id=11352879
+#EXTINF:-1 tvg-id="蜡笔小新" tvg-name="蜡笔小新" tvg-logo="https://epg.112114.xyz/logo/蜡笔小新.png" group-title="🌟经典电视剧🌟",蜡笔小新
+http://103.193.151.146/huya.php?id=11352970
+#EXTINF:-1 tvg-id="旋风球技" tvg-name="旋风球技" tvg-logo="https://epg.112114.xyz/logo/旋风球技.png" group-title="🌟经典电视剧🌟",旋风球技
+http://103.193.151.146/huya.php?id=11342400
+#EXTINF:-1 tvg-id="吐槽大会" tvg-name="吐槽大会" tvg-logo="https://epg.112114.xyz/logo/吐槽大会.png" group-title="🌟经典电视剧🌟",吐槽大会
+http://103.193.151.146/huya.php?id=11342422
+#EXTINF:-1 tvg-id="黑帮斗争" tvg-name="黑帮斗争" tvg-logo="https://epg.112114.xyz/logo/黑帮斗争.png" group-title="🌟经典电视剧🌟",黑帮斗争
+http://103.193.151.146/huya.php?id=11342419
+#EXTINF:-1 tvg-id="星爷搞笑" tvg-name="星爷搞笑" tvg-logo="https://epg.112114.xyz/logo/星爷搞笑.png" group-title="🌟经典电视剧🌟",星爷搞笑
+http://103.193.151.146/huya.php?id=21136378
+#EXTINF:-1 tvg-id="开心快乐" tvg-name="开心快乐" tvg-logo="https://epg.112114.xyz/logo/开心快乐.png" group-title="🌟经典电视剧🌟",开心快乐
+http://103.193.151.146/huya.php?id=11342388
+#EXTINF:-1 tvg-id="十大奇冤" tvg-name="十大奇冤" tvg-logo="https://epg.112114.xyz/logo/十大奇冤.png" group-title="🌟经典电视剧🌟",十大奇冤
+http://103.193.151.146/huya.php?id=11352899
+#EXTINF:-1 tvg-id="经典喜剧" tvg-name="经典喜剧" tvg-logo="https://epg.112114.xyz/logo/经典喜剧.png" group-title="🌟经典电视剧🌟",经典喜剧
+http://103.193.151.146/huya.php?id=11352894
+#EXTINF:-1 tvg-id="电锯惊魂" tvg-name="电锯惊魂" tvg-logo="https://epg.112114.xyz/logo/电锯惊魂.png" group-title="🌟经典电视剧🌟",电锯惊魂
+http://103.193.151.146/huya.php?id=11352903
+#EXTINF:-1 tvg-id="天雷滚滚" tvg-name="天雷滚滚" tvg-logo="https://epg.112114.xyz/logo/天雷滚滚.png" group-title="🌟经典电视剧🌟",天雷滚滚
+http://103.193.151.146/huya.php?id=11352945
+#EXTINF:-1 tvg-id="港剧经典" tvg-name="港剧经典" tvg-logo="https://epg.112114.xyz/logo/港剧经典.png" group-title="🌟经典电视剧🌟",港剧经典
+http://103.193.151.146/huya.php?id=11352965
+#EXTINF:-1 tvg-id="茶啊二中" tvg-name="茶啊二中" tvg-logo="https://epg.112114.xyz/logo/茶啊二中.png" group-title="🌟经典电视剧🌟",茶啊二中
+http://103.193.151.146/huya.php?id=11213191
+#EXTINF:-1 tvg-id="喜剧专场" tvg-name="喜剧专场" tvg-logo="https://epg.112114.xyz/logo/喜剧专场.png" group-title="🌟经典电视剧🌟",喜剧专场
+http://103.193.151.146/huya.php?id=11602044
+#EXTINF:-1 tvg-id="女神系列" tvg-name="女神系列" tvg-logo="https://epg.112114.xyz/logo/女神系列.png" group-title="🌟经典电视剧🌟",女神系列
+http://103.193.151.146/huya.php?id=11336571
+#EXTINF:-1 tvg-id="金庸武侠" tvg-name="金庸武侠" tvg-logo="https://epg.112114.xyz/logo/金庸武侠.png" group-title="🌟经典电视剧🌟",金庸武侠
+http://103.193.151.146/huya.php?id=11342435
+#EXTINF:-1 tvg-id="小李飞刀" tvg-name="小李飞刀" tvg-logo="https://epg.112114.xyz/logo/小李飞刀.png" group-title="🌟经典电视剧🌟",小李飞刀
+http://103.193.151.146/huya.php?id=11336590
+#EXTINF:-1 tvg-id="魔法世界" tvg-name="魔法世界" tvg-logo="https://epg.112114.xyz/logo/魔法世界.png" group-title="🌟经典电视剧🌟",魔法世界
+http://103.193.151.146/huya.php?id=21059580
+#EXTINF:-1 tvg-id="最佳搭档" tvg-name="最佳搭档" tvg-logo="https://epg.112114.xyz/logo/最佳搭档.png" group-title="🌟经典电视剧🌟",最佳搭档
+http://103.193.151.146/huya.php?id=11342397
+#EXTINF:-1 tvg-id="虎妈猫爸" tvg-name="虎妈猫爸" tvg-logo="https://epg.112114.xyz/logo/虎妈猫爸.png" group-title="🌟经典电视剧🌟",虎妈猫爸
+http://103.193.151.146/huya.php?id=11601964
+#EXTINF:-1 tvg-id="谍战神剧" tvg-name="谍战神剧" tvg-logo="https://epg.112114.xyz/logo/谍战神剧.png" group-title="🌟经典电视剧🌟",谍战神剧
+http://103.193.151.146/huya.php?id=11342436
+#EXTINF:-1 tvg-id="救援电影" tvg-name="救援电影" tvg-logo="https://epg.112114.xyz/logo/救援电影.png" group-title="🌟经典电视剧🌟",救援电影
+http://103.193.151.146/huya.php?id=21059586
+#EXTINF:-1 tvg-id="金庸电影" tvg-name="金庸电影" tvg-logo="https://epg.112114.xyz/logo/金庸电影.png" group-title="🌟经典电视剧🌟",金庸电影
+http://103.193.151.146/huya.php?id=11352897
+#EXTINF:-1 tvg-id="鹊刀门传奇" tvg-name="鹊刀门传奇" tvg-logo="https://epg.112114.xyz/logo/鹊刀门传奇.png" group-title="🌟经典电视剧🌟",鹊刀门传奇
+http://103.193.151.146/huya.php?id=11352963
+#EXTINF:-1 tvg-id="民兵葛二蛋" tvg-name="民兵葛二蛋" tvg-logo="https://epg.112114.xyz/logo/民兵葛二蛋.png" group-title="🌟经典电视剧🌟",民兵葛二蛋
+http://103.193.151.146/huya.php?id=11602072
+#EXTINF:-1 tvg-id="铁道游击队" tvg-name="铁道游击队" tvg-logo="https://epg.112114.xyz/logo/铁道游击队.png" group-title="🌟经典电视剧🌟",铁道游击队
+http://103.193.151.146/huya.php?id=11352936
+#EXTINF:-1 tvg-id="新神雕侠侣" tvg-name="新神雕侠侣" tvg-logo="https://epg.112114.xyz/logo/新神雕侠侣.png" group-title="🌟经典电视剧🌟",新神雕侠侣
+http://103.193.151.146/huya.php?id=11352964
+#EXTINF:-1 tvg-id="我叫王大锤" tvg-name="我叫王大锤" tvg-logo="https://epg.112114.xyz/logo/我叫王大锤.png" group-title="🌟经典电视剧🌟",我叫王大锤
+http://103.193.151.146/huya.php?id=26355850
+#EXTINF:-1 tvg-id="生活大爆炸" tvg-name="生活大爆炸" tvg-logo="https://epg.112114.xyz/logo/生活大爆炸.png" group-title="🌟经典电视剧🌟",生活大爆炸
+http://103.193.151.146/huya.php?id=11342417
+#EXTINF:-1 tvg-id="情满四合院" tvg-name="情满四合院" tvg-logo="https://epg.112114.xyz/logo/情满四合院.png" group-title="🌟经典电视剧🌟",情满四合院
+http://103.193.151.146/huya.php?id=11342426
+#EXTINF:-1 tvg-id="金庸经典剧" tvg-name="金庸经典剧" tvg-logo="https://epg.112114.xyz/logo/金庸经典剧.png" group-title="🌟经典电视剧🌟",金庸经典剧
+http://103.193.151.146/huya.php?id=11602082
+#EXTINF:-1 tvg-id="五福星全集" tvg-name="五福星全集" tvg-logo="https://epg.112114.xyz/logo/五福星全集.png" group-title="🌟经典电视剧🌟",五福星全集
+http://103.193.151.146/huya.php?id=11282233
+#EXTINF:-1 tvg-id="命案十三宗" tvg-name="命案十三宗" tvg-logo="https://epg.112114.xyz/logo/命案十三宗.png" group-title="🌟经典电视剧🌟",命案十三宗
+http://103.193.151.146/huya.php?id=11601981
+#EXTINF:-1 tvg-id="美食纪录片" tvg-name="美食纪录片" tvg-logo="https://epg.112114.xyz/logo/美食纪录片.png" group-title="🌟经典电视剧🌟",美食纪录片
+http://103.193.151.146/huya.php?id=11352955
+#EXTINF:-1 tvg-id="神医喜来乐" tvg-name="神医喜来乐" tvg-logo="https://epg.112114.xyz/logo/神医喜来乐.png" group-title="🌟经典电视剧🌟",神医喜来乐
+http://103.193.151.146/huya.php?id=11601978
+#EXTINF:-1 tvg-id="中华小当家" tvg-name="中华小当家" tvg-logo="https://epg.112114.xyz/logo/中华小当家.png" group-title="🌟经典电视剧🌟",中华小当家
+http://103.193.151.146/huya.php?id=11342413
+#EXTINF:-1 tvg-id="搞笑一家人" tvg-name="搞笑一家人" tvg-logo="https://epg.112114.xyz/logo/搞笑一家人.png" group-title="🌟经典电视剧🌟",搞笑一家人
+http://103.193.151.146/huya.php?id=11342402
+#EXTINF:-1 tvg-id="倚天屠龙记" tvg-name="倚天屠龙记" tvg-logo="https://epg.112114.xyz/logo/倚天屠龙记.png" group-title="🌟经典电视剧🌟",倚天屠龙记
+http://103.193.151.146/huya.php?id=11342403
+#EXTINF:-1 tvg-id="杰森斯坦森" tvg-name="杰森斯坦森" tvg-logo="https://epg.112114.xyz/logo/杰森斯坦森.png" group-title="🌟经典电视剧🌟",杰森斯坦森
+http://103.193.151.146/huya.php?id=21059588
+#EXTINF:-1 tvg-id="地下交通站" tvg-name="地下交通站" tvg-logo="https://epg.112114.xyz/logo/地下交通站.png" group-title="🌟经典电视剧🌟",地下交通站
+http://103.193.151.146/huya.php?id=11342433
+#EXTINF:-1 tvg-id="陈翔六点半" tvg-name="陈翔六点半" tvg-logo="https://epg.112114.xyz/logo/陈翔六点半.png" group-title="🌟经典电视剧🌟",陈翔六点半
+http://103.193.151.146/huya.php?id=11274154
+#EXTINF:-1 tvg-id="神探狄仁杰" tvg-name="神探狄仁杰" tvg-logo="https://epg.112114.xyz/logo/神探狄仁杰.png" group-title="🌟经典电视剧🌟",神探狄仁杰
+http://103.193.151.146/huya.php?id=11352958
+#EXTINF:-1 tvg-id="炊事班的故事" tvg-name="炊事班的故事" tvg-logo="https://epg.112114.xyz/logo/炊事班的故事.png" group-title="🌟经典电视剧🌟",炊事班的故事
+http://103.193.151.146/huya.php?id=19524135
+#EXTINF:-1 tvg-id="情深深雨濛濛" tvg-name="情深深雨濛濛" tvg-logo="https://epg.112114.xyz/logo/情深深雨濛濛.png" group-title="🌟经典电视剧🌟",情深深雨濛濛
+http://103.193.151.146/huya.php?id=11352885
+#EXTINF:-1 tvg-id="穿越千年之恋" tvg-name="穿越千年之恋" tvg-logo="https://epg.112114.xyz/logo/穿越千年之恋.png" group-title="🌟经典电视剧🌟",穿越千年之恋
+http://103.193.151.146/huya.php?id=11342398
+#EXTINF:-1 tvg-id="风云雄霸天下" tvg-name="风云雄霸天下" tvg-logo="https://epg.112114.xyz/logo/风云雄霸天下.png" group-title="🌟经典电视剧🌟",风云雄霸天下
+http://103.193.151.146/huya.php?id=21059612
+#EXTINF:-1 tvg-id="康熙微服私访" tvg-name="康熙微服私访" tvg-logo="https://epg.112114.xyz/logo/康熙微服私访.png" group-title="🌟经典电视剧🌟",康熙微服私访
+http://103.193.151.146/huya.php?id=11342418
+#EXTINF:-1 tvg-id="我的团长我的团" tvg-name="我的团长我的团" tvg-logo="https://epg.112114.xyz/logo/我的团长我的团.png" group-title="🌟经典电视剧🌟",我的团长我的团
+http://103.193.151.146/huya.php?id=11352910
+#EXTINF:-1 tvg-id="铁齿铜牙纪晓岚" tvg-name="铁齿铜牙纪晓岚" tvg-logo="https://epg.112114.xyz/logo/铁齿铜牙纪晓岚.png" group-title="🌟经典电视剧🌟",铁齿铜牙纪晓岚
+http://103.193.151.146/huya.php?id=11342396
+#EXTINF:-1 tvg-id="推荐合集" tvg-name="推荐合集" tvg-logo="https://epg.112114.xyz/logo/推荐合集.png" group-title="🌟经典电视剧🌟",推荐合集
+http://103.193.151.146/huya.php?id=11602041
+#EXTINF:-1 tvg-id="强森合集" tvg-name="强森合集" tvg-logo="https://epg.112114.xyz/logo/强森合集.png" group-title="🌟经典电视剧🌟",强森合集
+http://103.193.151.146/huya.php?id=21059581
+#EXTINF:-1 tvg-id="宇宙合集" tvg-name="宇宙合集" tvg-logo="https://epg.112114.xyz/logo/宇宙合集.png" group-title="🌟经典电视剧🌟",宇宙合集
+http://103.193.151.146/huya.php?id=11342428
+#EXTINF:-1 tvg-id="怪兽合集" tvg-name="怪兽合集" tvg-logo="https://epg.112114.xyz/logo/怪兽合集.png" group-title="🌟经典电视剧🌟",怪兽合集
+http://103.193.151.146/huya.php?id=21059577
+#EXTINF:-1 tvg-id="武侠合集" tvg-name="武侠合集" tvg-logo="https://epg.112114.xyz/logo/武侠合集.png" group-title="🌟经典电视剧🌟",武侠合集
+http://103.193.151.146/huya.php?id=11342427
+#EXTINF:-1 tvg-id="枪战合集" tvg-name="枪战合集" tvg-logo="https://epg.112114.xyz/logo/枪战合集.png" group-title="🌟经典电视剧🌟",枪战合集
+http://103.193.151.146/huya.php?id=21059579
+#EXTINF:-1 tvg-id="热血合集" tvg-name="热血合集" tvg-logo="https://epg.112114.xyz/logo/热血合集.png" group-title="🌟经典电视剧🌟",热血合集
+http://103.193.151.146/huya.php?id=11352934
+#EXTINF:-1 tvg-id="喜剧合集" tvg-name="喜剧合集" tvg-logo="https://epg.112114.xyz/logo/喜剧合集.png" group-title="🌟经典电视剧🌟",喜剧合集
+http://103.193.151.146/huya.php?id=11352877
+#EXTINF:-1 tvg-id="国产合集" tvg-name="国产合集" tvg-logo="https://epg.112114.xyz/logo/国产合集.png" group-title="🌟经典电视剧🌟",国产合集
+http://103.193.151.146/huya.php?id=11352973
+#EXTINF:-1 tvg-id="科幻梦工场播" tvg-name="科幻梦工场播" tvg-logo="https://epg.112114.xyz/logo/科幻梦工场播.png" group-title="🌟经典电视剧🌟",科幻梦工场
+http://103.193.151.146/huya.php?id=15152155
+#EXTINF:-1 tvg-id="脱口秀大会肆" tvg-name="脱口秀大会肆" tvg-logo="https://epg.112114.xyz/logo/脱口秀大会肆.png" group-title="🌟经典电视剧🌟",脱口秀大会 4
+http://103.193.151.146/huya.php?id=30080243
+#EXTINF:-1 tvg-id="脱口秀大会伍" tvg-name="脱口秀大会伍" tvg-logo="https://epg.112114.xyz/logo/脱口秀大会伍.png" group-title="🌟经典电视剧🌟",脱口秀大会 5
+http://103.193.151.146/huya.php?id=11352875
+#EXTINF:-1 tvg-id="XXXXXXXXX粤" tvg-name="XXXXXXXXX粤" tvg-logo="https://epg.112114.xyz/logo/XXXXXXXXX粤.png" group-title="🌟经典电视剧🌟",粤语电视剧
+http://lxajh.top/tv/douyu.php?id=8912325
+#EXTINF:-1 tvg-id="科幻Fans轮播" tvg-name="科幻Fans轮播" tvg-logo="https://epg.112114.xyz/logo/科幻FANS轮播.png" group-title="🌟经典电视剧🌟",科幻Fans轮播
+http://lxajh.top/tv/douyu.php?id=3508304
+#EXTINF:-1 tvg-id="科幻解说轮播" tvg-name="科幻解说轮播" tvg-logo="https://epg.112114.xyz/logo/科幻解说轮播.png" group-title="🌟经典电视剧🌟",科幻解说
+http://lxajh.top/tv/douyu.php?id=9338839
+#EXTINF:-1 tvg-id="美剧解说轮播" tvg-name="美剧解说轮播" tvg-logo="https://epg.112114.xyz/logo/美剧解说轮播.png" group-title="🌟经典电视剧🌟",美剧解说
+http://lxajh.top/tv/douyu.php?id=9643264
+#EXTINF:-1 tvg-id="经典美剧解说" tvg-name="经典美剧解说" tvg-logo="https://epg.112114.xyz/logo/经典美剧解说.png" group-title="🌟经典电视剧🌟",经典美剧
+http://lxajh.top/tv/douyu.php?id=9123570
+#EXTINF:-1 tvg-id="炊事班的故事III" tvg-name="炊事班的故事III" tvg-logo="https://epg.112114.xyz/logo/炊事班的故事III.png" group-title="🌟经典电视剧🌟",炊事班的故事III
+http://zzy789.xyz/douyu1.php?id=319576
+#EXTINF:-1 tvg-id="经典港剧天地" tvg-name="经典港剧天地" tvg-logo="https://epg.112114.xyz/logo/经典港剧天地.png" group-title="🌟经典电视剧🌟",经典港剧天地
+http://zzy789.xyz/douyu1.php?id=4290711
+#EXTINF:-1 tvg-id="热门港剧天地" tvg-name="热门港剧天地" tvg-logo="https://epg.112114.xyz/logo/热门港剧天地.png" group-title="🌟经典电视剧🌟",热门港剧天地
+http://zzy789.xyz/douyu1.php?id=5522351
+#EXTINF:-1 tvg-id="西关大院粤语" tvg-name="西关大院粤语" tvg-logo="https://epg.112114.xyz/logo/西关大院粤语.png" group-title="🌟经典电视剧🌟",西关大院粤语
+http://zzy789.xyz/douyu1.php?id=11878141
+#EXTINF:-1 tvg-id="一起看港剧" tvg-name="一起看港剧" tvg-logo="https://epg.112114.xyz/logo/一起看港剧.png" group-title="🌟经典电视剧🌟",一起看港剧
+http://zzy789.xyz/douyu1.php?id=5061550
+#EXTINF:-1 tvg-id="金庸武侠致敬经典" tvg-name="金庸武侠致敬经典" tvg-logo="https://epg.112114.xyz/logo/金庸武侠致敬经典.png" group-title="🌟经典电视剧🌟",金庸武侠致敬经典
+http://zzy789.xyz/douyu1.php?id=9285904
+#EXTINF:-1 tvg-id="雍正康熙帝王故事" tvg-name="雍正康熙帝王故事" tvg-logo="https://epg.112114.xyz/logo/雍正康熙帝王故事.png" group-title="🌟经典电视剧🌟",雍正康熙帝王故事
+http://zzy789.xyz/douyu1.php?id=4808115
+#EXTINF:-1 tvg-id="和平饭店" tvg-name="和平饭店" tvg-logo="https://epg.112114.xyz/logo/和平饭店.png" group-title="🌟经典电视剧🌟",和平饭店
+http://zzy789.xyz/douyu1.php?id=9650782
+#EXTINF:-1 tvg-id="摸金校尉造访龙岭" tvg-name="摸金校尉造访龙岭" tvg-logo="https://epg.112114.xyz/logo/摸金校尉造访龙岭.png" group-title="🌟经典电视剧🌟",摸金校尉造访龙岭
+http://103.193.151.146/huya.php?id=29465863
+#EXTINF:-1 tvg-id="鬼吹灯南海归" tvg-name="鬼吹灯南海归" tvg-logo="https://epg.112114.xyz/logo/鬼吹灯南海归.png" group-title="🌟经典电视剧🌟",鬼吹灯南海归
+http://103.193.151.146/huya.php?id=11352883
+#EXTINF:-1 tvg-id="鬼吹灯" tvg-name="鬼吹灯" tvg-logo="https://epg.112114.xyz/logo/鬼吹灯.png" group-title="🌟经典电视剧🌟",鬼吹灯
+http://103.193.151.146/huya.php?id=11601957
+#EXTINF:-1 tvg-id="金庸剧24h" tvg-name="金庸剧24h" tvg-logo="https://epg.112114.xyz/logo/金庸剧24H.png" group-title="🌟经典电视剧🌟",金庸剧24h
+http://103.193.151.146/huya.php?id=11602082
