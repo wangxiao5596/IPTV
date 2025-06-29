@@ -1,6 +1,4 @@
 #EXTM3U
-#EXT-X-APP APTV
-#EXT-X-APTV-TYPE local
 
 #EXTINF:-1 group-title="云南联通",CCTV1
 http://221.213.93.224:85/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0
