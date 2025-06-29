@@ -1,1191 +1,1189 @@
 #EXTM3U
-#EXT-X-APP APTV
-#EXT-X-APTV-TYPE local
 
-#EXTINF:-1 group-title="mgtv--列表",CCTV1
+#EXTINF:-1 group-title="咪咕直播",CCTV1
 http://110.40.39.111:10216/mgtv/608807420.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CCTV1
+#EXTINF:-1 group-title="咪咕直播",CCTV1
 http://fn.tmde.top:35455/mgtv/608807420.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CCTV2
+#EXTINF:-1 group-title="咪咕直播",CCTV2
 http://110.40.39.111:10216/mgtv/631780532.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CCTV2
+#EXTINF:-1 group-title="咪咕直播",CCTV2
 http://fn.tmde.top:35455/mgtv/631780532.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CCTV3
+#EXTINF:-1 group-title="咪咕直播",CCTV3
 http://110.40.39.111:10216/mgtv/624878271.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CCTV3
+#EXTINF:-1 group-title="咪咕直播",CCTV3
 http://fn.tmde.top:35455/mgtv/624878271.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CCTV4
+#EXTINF:-1 group-title="咪咕直播",CCTV4
 http://110.40.39.111:10216/mgtv/631780421.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CCTV4
+#EXTINF:-1 group-title="咪咕直播",CCTV4
 http://fn.tmde.top:35455/mgtv/608807416.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CCTV4
+#EXTINF:-1 group-title="咪咕直播",CCTV4
 http://fn.tmde.top:35455/mgtv/608807419.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CCTV4
+#EXTINF:-1 group-title="咪咕直播",CCTV4
 http://fn.tmde.top:35455/mgtv/631780421.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CCTV4
+#EXTINF:-1 group-title="咪咕直播",CCTV4
 http://227w9f5104.zicp.fun:35455/mgtv/608807416.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CCTV4
+#EXTINF:-1 group-title="咪咕直播",CCTV4
 http://alist.xicp.fun:35455/mgtv/608807416.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CCTV4
+#EXTINF:-1 group-title="咪咕直播",CCTV4
 http://guyue0227.eicp.net:35455/mgtv/608807416.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CCTV4
+#EXTINF:-1 group-title="咪咕直播",CCTV4
 http://i.880824.xyz:35455/mgtv/608807416.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CCTV4
+#EXTINF:-1 group-title="咪咕直播",CCTV4
 http://jilin-02.tosunsoft.com:35455/mgtv/608807416.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CCTV4
+#EXTINF:-1 group-title="咪咕直播",CCTV4
 http://kakaphone.pgrm.cc:9257/mgtv/608807416.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CCTV4
+#EXTINF:-1 group-title="咪咕直播",CCTV4
 http://ychz.myds.me:35455/mgtv/608807416.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CCTV4
+#EXTINF:-1 group-title="咪咕直播",CCTV4
 http://yemingjkl.x3322.net:35455/mgtv/608807416.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CCTV5
+#EXTINF:-1 group-title="咪咕直播",CCTV5
 http://fn.tmde.top:35455/mgtv/641886683.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CCTV5
+#EXTINF:-1 group-title="咪咕直播",CCTV5
 http://110.40.39.111:10216/mgtv/641886683.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CCTV5+
+#EXTINF:-1 group-title="咪咕直播",CCTV5+
 http://110.40.39.111:10216/mgtv/641886773.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CCTV5+
+#EXTINF:-1 group-title="咪咕直播",CCTV5+
 http://fn.tmde.top:35455/mgtv/641886773.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CCTV5+
+#EXTINF:-1 group-title="咪咕直播",CCTV5+
 http://templaralone.asuscomm.com:35455/mgtv/641886773.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CCTV6
+#EXTINF:-1 group-title="咪咕直播",CCTV6
 http://110.40.39.111:10216/mgtv/624878396.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CCTV6
+#EXTINF:-1 group-title="咪咕直播",CCTV6
 http://fn.tmde.top:35455/mgtv/624878396.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CCTV7
+#EXTINF:-1 group-title="咪咕直播",CCTV7
 http://110.40.39.111:10216/mgtv/673168121.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CCTV7
+#EXTINF:-1 group-title="咪咕直播",CCTV7
 http://fn.tmde.top:35455/mgtv/673168121.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CCTV8
+#EXTINF:-1 group-title="咪咕直播",CCTV8
 http://110.40.39.111:10216/mgtv/624878356.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CCTV8
+#EXTINF:-1 group-title="咪咕直播",CCTV8
 http://fn.tmde.top:35455/mgtv/624878356.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CCTV9
+#EXTINF:-1 group-title="咪咕直播",CCTV9
 http://110.40.39.111:10216/mgtv/673168140.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CCTV9
+#EXTINF:-1 group-title="咪咕直播",CCTV9
 http://fn.tmde.top:35455/mgtv/673168140.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CCTV10
+#EXTINF:-1 group-title="咪咕直播",CCTV10
 http://110.40.39.111:10216/mgtv/624878405.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CCTV10
+#EXTINF:-1 group-title="咪咕直播",CCTV10
 http://fn.tmde.top:35455/mgtv/624878405.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CCTV11
+#EXTINF:-1 group-title="咪咕直播",CCTV11
 http://110.40.39.111:10216/mgtv/667987558.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CCTV11
+#EXTINF:-1 group-title="咪咕直播",CCTV11
 http://fn.tmde.top:35455/mgtv/667987558.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CCTV12
+#EXTINF:-1 group-title="咪咕直播",CCTV12
 http://110.40.39.111:10216/mgtv/673168185.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CCTV12
+#EXTINF:-1 group-title="咪咕直播",CCTV12
 http://fn.tmde.top:35455/mgtv/673168185.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CCTV13
+#EXTINF:-1 group-title="咪咕直播",CCTV13
 http://110.40.39.111:10216/mgtv/608807423.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CCTV13
+#EXTINF:-1 group-title="咪咕直播",CCTV13
 http://fn.tmde.top:35455/mgtv/608807423.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CCTV14
+#EXTINF:-1 group-title="咪咕直播",CCTV14
 http://110.40.39.111:10216/mgtv/624878440.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CCTV14
+#EXTINF:-1 group-title="咪咕直播",CCTV14
 http://fn.tmde.top:35455/mgtv/624878440.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CCTV15
+#EXTINF:-1 group-title="咪咕直播",CCTV15
 http://110.40.39.111:10216/mgtv/673168223.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CCTV15
+#EXTINF:-1 group-title="咪咕直播",CCTV15
 http://fn.tmde.top:35455/mgtv/673168223.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CCTV17
+#EXTINF:-1 group-title="咪咕直播",CCTV17
 http://110.40.39.111:10216/mgtv/673168256.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CCTV17
+#EXTINF:-1 group-title="咪咕直播",CCTV17
 http://fn.tmde.top:35455/mgtv/673168256.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CCTV1
+#EXTINF:-1 group-title="咪咕直播",CCTV1
 http://227w9f5104.zicp.fun:35455/mgtv/608807420.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CCTV1
+#EXTINF:-1 group-title="咪咕直播",CCTV1
 http://alist.xicp.fun:35455/mgtv/608807420.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CCTV1
+#EXTINF:-1 group-title="咪咕直播",CCTV1
 http://guyue0227.eicp.net:35455/mgtv/608807420.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CCTV1
+#EXTINF:-1 group-title="咪咕直播",CCTV1
 http://i.880824.xyz:35455/mgtv/608807420.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CCTV1
+#EXTINF:-1 group-title="咪咕直播",CCTV1
 http://jilin-02.tosunsoft.com:35455/mgtv/608807420.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CCTV1
+#EXTINF:-1 group-title="咪咕直播",CCTV1
 http://kakaphone.pgrm.cc:9257/mgtv/608807420.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CCTV1
+#EXTINF:-1 group-title="咪咕直播",CCTV1
 http://ychz.myds.me:35455/mgtv/608807420.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CCTV1
+#EXTINF:-1 group-title="咪咕直播",CCTV1
 http://yemingjkl.x3322.net:35455/mgtv/608807420.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CCTV2
+#EXTINF:-1 group-title="咪咕直播",CCTV2
 http://227w9f5104.zicp.fun:35455/mgtv/631780532.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CCTV2
+#EXTINF:-1 group-title="咪咕直播",CCTV2
 http://alist.xicp.fun:35455/mgtv/631780532.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CCTV2
+#EXTINF:-1 group-title="咪咕直播",CCTV2
 http://guyue0227.eicp.net:35455/mgtv/631780532.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CCTV2
+#EXTINF:-1 group-title="咪咕直播",CCTV2
 http://i.880824.xyz:35455/mgtv/631780532.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CCTV2
+#EXTINF:-1 group-title="咪咕直播",CCTV2
 http://jilin-02.tosunsoft.com:35455/mgtv/631780532.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CCTV2
+#EXTINF:-1 group-title="咪咕直播",CCTV2
 http://kakaphone.pgrm.cc:9257/mgtv/631780532.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CCTV2
+#EXTINF:-1 group-title="咪咕直播",CCTV2
 http://ychz.myds.me:35455/mgtv/631780532.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CCTV2
+#EXTINF:-1 group-title="咪咕直播",CCTV2
 http://yemingjkl.x3322.net:35455/mgtv/631780532.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CCTV3
+#EXTINF:-1 group-title="咪咕直播",CCTV3
 http://227w9f5104.zicp.fun:35455/mgtv/624878271.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CCTV3
+#EXTINF:-1 group-title="咪咕直播",CCTV3
 http://alist.xicp.fun:35455/mgtv/624878271.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CCTV3
+#EXTINF:-1 group-title="咪咕直播",CCTV3
 http://guyue0227.eicp.net:35455/mgtv/624878271.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CCTV3
+#EXTINF:-1 group-title="咪咕直播",CCTV3
 http://i.880824.xyz:35455/mgtv/624878271.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CCTV3
+#EXTINF:-1 group-title="咪咕直播",CCTV3
 http://jilin-02.tosunsoft.com:35455/mgtv/624878271.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CCTV3
+#EXTINF:-1 group-title="咪咕直播",CCTV3
 http://kakaphone.pgrm.cc:9257/mgtv/624878271.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CCTV3
+#EXTINF:-1 group-title="咪咕直播",CCTV3
 http://ychz.myds.me:35455/mgtv/624878271.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CCTV3
+#EXTINF:-1 group-title="咪咕直播",CCTV3
 http://yemingjkl.x3322.net:35455/mgtv/624878271.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CCTV4
+#EXTINF:-1 group-title="咪咕直播",CCTV4
 http://227w9f5104.zicp.fun:35455/mgtv/608807419.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CCTV4
+#EXTINF:-1 group-title="咪咕直播",CCTV4
 http://alist.xicp.fun:35455/mgtv/608807419.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CCTV4
+#EXTINF:-1 group-title="咪咕直播",CCTV4
 http://guyue0227.eicp.net:35455/mgtv/608807419.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CCTV4
+#EXTINF:-1 group-title="咪咕直播",CCTV4
 http://i.880824.xyz:35455/mgtv/608807419.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CCTV4
+#EXTINF:-1 group-title="咪咕直播",CCTV4
 http://jilin-02.tosunsoft.com:35455/mgtv/608807419.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CCTV4
+#EXTINF:-1 group-title="咪咕直播",CCTV4
 http://kakaphone.pgrm.cc:9257/mgtv/608807419.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CCTV4
+#EXTINF:-1 group-title="咪咕直播",CCTV4
 http://ychz.myds.me:35455/mgtv/608807419.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CCTV4
+#EXTINF:-1 group-title="咪咕直播",CCTV4
 http://yemingjkl.x3322.net:35455/mgtv/608807419.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CCTV4
+#EXTINF:-1 group-title="咪咕直播",CCTV4
 http://227w9f5104.zicp.fun:35455/mgtv/631780421.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CCTV4
+#EXTINF:-1 group-title="咪咕直播",CCTV4
 http://alist.xicp.fun:35455/mgtv/631780421.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CCTV4
+#EXTINF:-1 group-title="咪咕直播",CCTV4
 http://guyue0227.eicp.net:35455/mgtv/631780421.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CCTV4
+#EXTINF:-1 group-title="咪咕直播",CCTV4
 http://i.880824.xyz:35455/mgtv/631780421.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CCTV4
+#EXTINF:-1 group-title="咪咕直播",CCTV4
 http://jilin-02.tosunsoft.com:35455/mgtv/631780421.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CCTV4
+#EXTINF:-1 group-title="咪咕直播",CCTV4
 http://kakaphone.pgrm.cc:9257/mgtv/631780421.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CCTV4
+#EXTINF:-1 group-title="咪咕直播",CCTV4
 http://ychz.myds.me:35455/mgtv/631780421.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CCTV4
+#EXTINF:-1 group-title="咪咕直播",CCTV4
 http://yemingjkl.x3322.net:35455/mgtv/631780421.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CCTV5+
+#EXTINF:-1 group-title="咪咕直播",CCTV5+
 http://alist.xicp.fun:35455/mgtv/641886773.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CCTV5+
+#EXTINF:-1 group-title="咪咕直播",CCTV5+
 http://guyue0227.eicp.net:35455/mgtv/641886773.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CCTV5+
+#EXTINF:-1 group-title="咪咕直播",CCTV5+
 http://i.880824.xyz:35455/mgtv/641886773.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CCTV5+
+#EXTINF:-1 group-title="咪咕直播",CCTV5+
 http://jilin-02.tosunsoft.com:35455/mgtv/641886773.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CCTV5+
+#EXTINF:-1 group-title="咪咕直播",CCTV5+
 http://kakaphone.pgrm.cc:9257/mgtv/641886773.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CCTV5+
+#EXTINF:-1 group-title="咪咕直播",CCTV5+
 http://ychz.myds.me:35455/mgtv/641886773.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CCTV5+
+#EXTINF:-1 group-title="咪咕直播",CCTV5+
 http://yemingjkl.x3322.net:35455/mgtv/641886773.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CCTV5
+#EXTINF:-1 group-title="咪咕直播",CCTV5
 http://227w9f5104.zicp.fun:35455/mgtv/641886683.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CCTV5
+#EXTINF:-1 group-title="咪咕直播",CCTV5
 http://alist.xicp.fun:35455/mgtv/641886683.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CCTV5
+#EXTINF:-1 group-title="咪咕直播",CCTV5
 http://guyue0227.eicp.net:35455/mgtv/641886683.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CCTV5
+#EXTINF:-1 group-title="咪咕直播",CCTV5
 http://i.880824.xyz:35455/mgtv/641886683.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CCTV5
+#EXTINF:-1 group-title="咪咕直播",CCTV5
 http://jilin-02.tosunsoft.com:35455/mgtv/641886683.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CCTV5
+#EXTINF:-1 group-title="咪咕直播",CCTV5
 http://kakaphone.pgrm.cc:9257/mgtv/641886683.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CCTV5
+#EXTINF:-1 group-title="咪咕直播",CCTV5
 http://ychz.myds.me:35455/mgtv/641886683.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CCTV5
+#EXTINF:-1 group-title="咪咕直播",CCTV5
 http://yemingjkl.x3322.net:35455/mgtv/641886683.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CCTV6
+#EXTINF:-1 group-title="咪咕直播",CCTV6
 http://227w9f5104.zicp.fun:35455/mgtv/624878396.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CCTV6
+#EXTINF:-1 group-title="咪咕直播",CCTV6
 http://alist.xicp.fun:35455/mgtv/624878396.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CCTV6
+#EXTINF:-1 group-title="咪咕直播",CCTV6
 http://guyue0227.eicp.net:35455/mgtv/624878396.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CCTV6
+#EXTINF:-1 group-title="咪咕直播",CCTV6
 http://i.880824.xyz:35455/mgtv/624878396.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CCTV6
+#EXTINF:-1 group-title="咪咕直播",CCTV6
 http://jilin-02.tosunsoft.com:35455/mgtv/624878396.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CCTV6
+#EXTINF:-1 group-title="咪咕直播",CCTV6
 http://kakaphone.pgrm.cc:9257/mgtv/624878396.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CCTV6
+#EXTINF:-1 group-title="咪咕直播",CCTV6
 http://ychz.myds.me:35455/mgtv/624878396.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CCTV6
+#EXTINF:-1 group-title="咪咕直播",CCTV6
 http://yemingjkl.x3322.net:35455/mgtv/624878396.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CCTV7
+#EXTINF:-1 group-title="咪咕直播",CCTV7
 http://227w9f5104.zicp.fun:35455/mgtv/673168121.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CCTV7
+#EXTINF:-1 group-title="咪咕直播",CCTV7
 http://alist.xicp.fun:35455/mgtv/673168121.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CCTV7
+#EXTINF:-1 group-title="咪咕直播",CCTV7
 http://guyue0227.eicp.net:35455/mgtv/673168121.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CCTV7
+#EXTINF:-1 group-title="咪咕直播",CCTV7
 http://i.880824.xyz:35455/mgtv/673168121.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CCTV7
+#EXTINF:-1 group-title="咪咕直播",CCTV7
 http://jilin-02.tosunsoft.com:35455/mgtv/673168121.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CCTV7
+#EXTINF:-1 group-title="咪咕直播",CCTV7
 http://kakaphone.pgrm.cc:9257/mgtv/673168121.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CCTV7
+#EXTINF:-1 group-title="咪咕直播",CCTV7
 http://ychz.myds.me:35455/mgtv/673168121.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CCTV7
+#EXTINF:-1 group-title="咪咕直播",CCTV7
 http://yemingjkl.x3322.net:35455/mgtv/673168121.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CCTV8
+#EXTINF:-1 group-title="咪咕直播",CCTV8
 http://227w9f5104.zicp.fun:35455/mgtv/624878356.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CCTV8
+#EXTINF:-1 group-title="咪咕直播",CCTV8
 http://alist.xicp.fun:35455/mgtv/624878356.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CCTV8
+#EXTINF:-1 group-title="咪咕直播",CCTV8
 http://guyue0227.eicp.net:35455/mgtv/624878356.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CCTV8
+#EXTINF:-1 group-title="咪咕直播",CCTV8
 http://i.880824.xyz:35455/mgtv/624878356.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CCTV8
+#EXTINF:-1 group-title="咪咕直播",CCTV8
 http://jilin-02.tosunsoft.com:35455/mgtv/624878356.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CCTV8
+#EXTINF:-1 group-title="咪咕直播",CCTV8
 http://kakaphone.pgrm.cc:9257/mgtv/624878356.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CCTV8
+#EXTINF:-1 group-title="咪咕直播",CCTV8
 http://ychz.myds.me:35455/mgtv/624878356.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CCTV8
+#EXTINF:-1 group-title="咪咕直播",CCTV8
 http://yemingjkl.x3322.net:35455/mgtv/624878356.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CCTV9
+#EXTINF:-1 group-title="咪咕直播",CCTV9
 http://227w9f5104.zicp.fun:35455/mgtv/673168140.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CCTV9
+#EXTINF:-1 group-title="咪咕直播",CCTV9
 http://alist.xicp.fun:35455/mgtv/673168140.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CCTV9
+#EXTINF:-1 group-title="咪咕直播",CCTV9
 http://guyue0227.eicp.net:35455/mgtv/673168140.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CCTV9
+#EXTINF:-1 group-title="咪咕直播",CCTV9
 http://i.880824.xyz:35455/mgtv/673168140.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CCTV9
+#EXTINF:-1 group-title="咪咕直播",CCTV9
 http://jilin-02.tosunsoft.com:35455/mgtv/673168140.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CCTV9
+#EXTINF:-1 group-title="咪咕直播",CCTV9
 http://kakaphone.pgrm.cc:9257/mgtv/673168140.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CCTV9
+#EXTINF:-1 group-title="咪咕直播",CCTV9
 http://ychz.myds.me:35455/mgtv/673168140.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CCTV9
+#EXTINF:-1 group-title="咪咕直播",CCTV9
 http://yemingjkl.x3322.net:35455/mgtv/673168140.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CCTV10
+#EXTINF:-1 group-title="咪咕直播",CCTV10
 http://227w9f5104.zicp.fun:35455/mgtv/624878405.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CCTV10
+#EXTINF:-1 group-title="咪咕直播",CCTV10
 http://alist.xicp.fun:35455/mgtv/624878405.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CCTV10
+#EXTINF:-1 group-title="咪咕直播",CCTV10
 http://guyue0227.eicp.net:35455/mgtv/624878405.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CCTV10
+#EXTINF:-1 group-title="咪咕直播",CCTV10
 http://i.880824.xyz:35455/mgtv/624878405.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CCTV10
+#EXTINF:-1 group-title="咪咕直播",CCTV10
 http://jilin-02.tosunsoft.com:35455/mgtv/624878405.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CCTV10
+#EXTINF:-1 group-title="咪咕直播",CCTV10
 http://kakaphone.pgrm.cc:9257/mgtv/624878405.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CCTV10
+#EXTINF:-1 group-title="咪咕直播",CCTV10
 http://ychz.myds.me:35455/mgtv/624878405.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CCTV10
+#EXTINF:-1 group-title="咪咕直播",CCTV10
 http://yemingjkl.x3322.net:35455/mgtv/624878405.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CCTV11
+#EXTINF:-1 group-title="咪咕直播",CCTV11
 http://227w9f5104.zicp.fun:35455/mgtv/667987558.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CCTV11
+#EXTINF:-1 group-title="咪咕直播",CCTV11
 http://alist.xicp.fun:35455/mgtv/667987558.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CCTV11
+#EXTINF:-1 group-title="咪咕直播",CCTV11
 http://guyue0227.eicp.net:35455/mgtv/667987558.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CCTV11
+#EXTINF:-1 group-title="咪咕直播",CCTV11
 http://i.880824.xyz:35455/mgtv/667987558.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CCTV11
+#EXTINF:-1 group-title="咪咕直播",CCTV11
 http://jilin-02.tosunsoft.com:35455/mgtv/667987558.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CCTV11
+#EXTINF:-1 group-title="咪咕直播",CCTV11
 http://kakaphone.pgrm.cc:9257/mgtv/667987558.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CCTV11
+#EXTINF:-1 group-title="咪咕直播",CCTV11
 http://ychz.myds.me:35455/mgtv/667987558.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CCTV11
+#EXTINF:-1 group-title="咪咕直播",CCTV11
 http://yemingjkl.x3322.net:35455/mgtv/667987558.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CCTV12
+#EXTINF:-1 group-title="咪咕直播",CCTV12
 http://227w9f5104.zicp.fun:35455/mgtv/673168185.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CCTV12
+#EXTINF:-1 group-title="咪咕直播",CCTV12
 http://alist.xicp.fun:35455/mgtv/673168185.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CCTV12
+#EXTINF:-1 group-title="咪咕直播",CCTV12
 http://guyue0227.eicp.net:35455/mgtv/673168185.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CCTV12
+#EXTINF:-1 group-title="咪咕直播",CCTV12
 http://i.880824.xyz:35455/mgtv/673168185.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CCTV12
+#EXTINF:-1 group-title="咪咕直播",CCTV12
 http://jilin-02.tosunsoft.com:35455/mgtv/673168185.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CCTV12
+#EXTINF:-1 group-title="咪咕直播",CCTV12
 http://kakaphone.pgrm.cc:9257/mgtv/673168185.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CCTV12
+#EXTINF:-1 group-title="咪咕直播",CCTV12
 http://ychz.myds.me:35455/mgtv/673168185.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CCTV12
+#EXTINF:-1 group-title="咪咕直播",CCTV12
 http://yemingjkl.x3322.net:35455/mgtv/673168185.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CCTV13
+#EXTINF:-1 group-title="咪咕直播",CCTV13
 http://227w9f5104.zicp.fun:35455/mgtv/608807423.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CCTV13
+#EXTINF:-1 group-title="咪咕直播",CCTV13
 http://alist.xicp.fun:35455/mgtv/608807423.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CCTV13
+#EXTINF:-1 group-title="咪咕直播",CCTV13
 http://guyue0227.eicp.net:35455/mgtv/608807423.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CCTV13
+#EXTINF:-1 group-title="咪咕直播",CCTV13
 http://i.880824.xyz:35455/mgtv/608807423.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CCTV13
+#EXTINF:-1 group-title="咪咕直播",CCTV13
 http://jilin-02.tosunsoft.com:35455/mgtv/608807423.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CCTV13
+#EXTINF:-1 group-title="咪咕直播",CCTV13
 http://kakaphone.pgrm.cc:9257/mgtv/608807423.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CCTV13
+#EXTINF:-1 group-title="咪咕直播",CCTV13
 http://ychz.myds.me:35455/mgtv/608807423.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CCTV13
+#EXTINF:-1 group-title="咪咕直播",CCTV13
 http://yemingjkl.x3322.net:35455/mgtv/608807423.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CCTV14
+#EXTINF:-1 group-title="咪咕直播",CCTV14
 http://227w9f5104.zicp.fun:35455/mgtv/624878440.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CCTV14
+#EXTINF:-1 group-title="咪咕直播",CCTV14
 http://alist.xicp.fun:35455/mgtv/624878440.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CCTV14
+#EXTINF:-1 group-title="咪咕直播",CCTV14
 http://guyue0227.eicp.net:35455/mgtv/624878440.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CCTV14
+#EXTINF:-1 group-title="咪咕直播",CCTV14
 http://i.880824.xyz:35455/mgtv/624878440.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CCTV14
+#EXTINF:-1 group-title="咪咕直播",CCTV14
 http://jilin-02.tosunsoft.com:35455/mgtv/624878440.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CCTV14
+#EXTINF:-1 group-title="咪咕直播",CCTV14
 http://kakaphone.pgrm.cc:9257/mgtv/624878440.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CCTV14
+#EXTINF:-1 group-title="咪咕直播",CCTV14
 http://ychz.myds.me:35455/mgtv/624878440.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CCTV14
+#EXTINF:-1 group-title="咪咕直播",CCTV14
 http://yemingjkl.x3322.net:35455/mgtv/624878440.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CCTV15
+#EXTINF:-1 group-title="咪咕直播",CCTV15
 http://227w9f5104.zicp.fun:35455/mgtv/673168223.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CCTV15
+#EXTINF:-1 group-title="咪咕直播",CCTV15
 http://alist.xicp.fun:35455/mgtv/673168223.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CCTV15
+#EXTINF:-1 group-title="咪咕直播",CCTV15
 http://guyue0227.eicp.net:35455/mgtv/673168223.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CCTV15
+#EXTINF:-1 group-title="咪咕直播",CCTV15
 http://i.880824.xyz:35455/mgtv/673168223.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CCTV15
+#EXTINF:-1 group-title="咪咕直播",CCTV15
 http://jilin-02.tosunsoft.com:35455/mgtv/673168223.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CCTV15
+#EXTINF:-1 group-title="咪咕直播",CCTV15
 http://kakaphone.pgrm.cc:9257/mgtv/673168223.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CCTV15
+#EXTINF:-1 group-title="咪咕直播",CCTV15
 http://ychz.myds.me:35455/mgtv/673168223.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CCTV15
+#EXTINF:-1 group-title="咪咕直播",CCTV15
 http://yemingjkl.x3322.net:35455/mgtv/673168223.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CCTV17
+#EXTINF:-1 group-title="咪咕直播",CCTV17
 http://227w9f5104.zicp.fun:35455/mgtv/673168256.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CCTV17
+#EXTINF:-1 group-title="咪咕直播",CCTV17
 http://alist.xicp.fun:35455/mgtv/673168256.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CCTV17
+#EXTINF:-1 group-title="咪咕直播",CCTV17
 http://guyue0227.eicp.net:35455/mgtv/673168256.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CCTV17
+#EXTINF:-1 group-title="咪咕直播",CCTV17
 http://i.880824.xyz:35455/mgtv/673168256.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CCTV17
+#EXTINF:-1 group-title="咪咕直播",CCTV17
 http://jilin-02.tosunsoft.com:35455/mgtv/673168256.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CCTV17
+#EXTINF:-1 group-title="咪咕直播",CCTV17
 http://kakaphone.pgrm.cc:9257/mgtv/673168256.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CCTV17
+#EXTINF:-1 group-title="咪咕直播",CCTV17
 http://ychz.myds.me:35455/mgtv/673168256.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CCTV17
+#EXTINF:-1 group-title="咪咕直播",CCTV17
 http://yemingjkl.x3322.net:35455/mgtv/673168256.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CCTV5+
+#EXTINF:-1 group-title="咪咕直播",CCTV5+
 http://124.220.159.96:35455/mgtv/641886773.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CCTV17
+#EXTINF:-1 group-title="咪咕直播",CCTV17
 http://124.220.159.96:35455/mgtv/673168256.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CCTV15
+#EXTINF:-1 group-title="咪咕直播",CCTV15
 http://1.wcnm.qzz.io:35455/mgtv/673168223.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CCTV17
+#EXTINF:-1 group-title="咪咕直播",CCTV17
 http://1.wcnm.qzz.io:35455/mgtv/673168256.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CCTV1
+#EXTINF:-1 group-title="咪咕直播",CCTV1
 http://ss.baihuan.online:35455/mgtv/608807420.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CCTV2
+#EXTINF:-1 group-title="咪咕直播",CCTV2
 http://ss.baihuan.online:35455/mgtv/631780532.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CCTV3
+#EXTINF:-1 group-title="咪咕直播",CCTV3
 http://ss.baihuan.online:35455/mgtv/624878271.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CCTV4
+#EXTINF:-1 group-title="咪咕直播",CCTV4
 http://ss.baihuan.online:35455/mgtv/631780421.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CCTV5
+#EXTINF:-1 group-title="咪咕直播",CCTV5
 http://ss.baihuan.online:35455/mgtv/641886683.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CCTV6
+#EXTINF:-1 group-title="咪咕直播",CCTV6
 http://ss.baihuan.online:35455/mgtv/624878396.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CCTV7
+#EXTINF:-1 group-title="咪咕直播",CCTV7
 http://ss.baihuan.online:35455/mgtv/673168121.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CCTV8
+#EXTINF:-1 group-title="咪咕直播",CCTV8
 http://ss.baihuan.online:35455/mgtv/624878356.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CCTV9
+#EXTINF:-1 group-title="咪咕直播",CCTV9
 http://ss.baihuan.online:35455/mgtv/673168140.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CCTV10
+#EXTINF:-1 group-title="咪咕直播",CCTV10
 http://ss.baihuan.online:35455/mgtv/624878405.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CCTV11
+#EXTINF:-1 group-title="咪咕直播",CCTV11
 http://ss.baihuan.online:35455/mgtv/667987558.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CCTV12
+#EXTINF:-1 group-title="咪咕直播",CCTV12
 http://ss.baihuan.online:35455/mgtv/673168185.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CCTV13
+#EXTINF:-1 group-title="咪咕直播",CCTV13
 http://ss.baihuan.online:35455/mgtv/608807423.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CCTV14
+#EXTINF:-1 group-title="咪咕直播",CCTV14
 http://ss.baihuan.online:35455/mgtv/624878440.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CCTV15
+#EXTINF:-1 group-title="咪咕直播",CCTV15
 http://ss.baihuan.online:35455/mgtv/673168223.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CCTV17
+#EXTINF:-1 group-title="咪咕直播",CCTV17
 http://ss.baihuan.online:35455/mgtv/673168256.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CCTV5+
+#EXTINF:-1 group-title="咪咕直播",CCTV5+
 http://ss.baihuan.online:35455/mgtv/641886773.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CCTV6
+#EXTINF:-1 group-title="咪咕直播",CCTV6
 http://fn.tmde.top:35455/mgtv/624878396.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CCTV14
+#EXTINF:-1 group-title="咪咕直播",CCTV14
 http://fn.tmde.top:35455/mgtv/624878440.m3u8
-#EXTINF:-1 group-title="mgtv--列表",江苏卫视
+#EXTINF:-1 group-title="咪咕直播",江苏卫视
 http://110.40.39.111:10216/mgtv/623899368.m3u8
-#EXTINF:-1 group-title="mgtv--列表",陕西卫视
+#EXTINF:-1 group-title="咪咕直播",陕西卫视
 http://1.wcnm.qzz.io:35455/mgtv/738910838.m3u8
-#EXTINF:-1 group-title="mgtv--列表",江西卫视
+#EXTINF:-1 group-title="咪咕直播",江西卫视
 http://110.40.39.111:10216/mgtv/783847495.m3u8
-#EXTINF:-1 group-title="mgtv--列表",湖北卫视
+#EXTINF:-1 group-title="咪咕直播",湖北卫视
 http://110.40.39.111:10216/mgtv/947472496.m3u8
-#EXTINF:-1 group-title="mgtv--列表",湖北卫视
+#EXTINF:-1 group-title="咪咕直播",湖北卫视
 http://124.220.159.96:35455/mgtv/947472496.m3u8
-#EXTINF:-1 group-title="mgtv--列表",陕西卫视
+#EXTINF:-1 group-title="咪咕直播",陕西卫视
 http://110.40.39.111:10216/mgtv/738910838.m3u8
-#EXTINF:-1 group-title="mgtv--列表",海峡卫视
+#EXTINF:-1 group-title="咪咕直播",海峡卫视
 http://110.40.39.111:10216/mgtv/849119120.m3u8
-#EXTINF:-1 group-title="mgtv--列表",江苏卫视
+#EXTINF:-1 group-title="咪咕直播",江苏卫视
 http://ss.baihuan.online:35455/mgtv/623899368.m3u8
-#EXTINF:-1 group-title="mgtv--列表",江西卫视
+#EXTINF:-1 group-title="咪咕直播",江西卫视
 http://ss.baihuan.online:35455/mgtv/783847495.m3u8
-#EXTINF:-1 group-title="mgtv--列表",湖北卫视
+#EXTINF:-1 group-title="咪咕直播",湖北卫视
 http://ss.baihuan.online:35455/mgtv/947472496.m3u8
-#EXTINF:-1 group-title="mgtv--列表",陕西卫视
+#EXTINF:-1 group-title="咪咕直播",陕西卫视
 http://ss.baihuan.online:35455/mgtv/738910838.m3u8
-#EXTINF:-1 group-title="mgtv--列表",海峡卫视
+#EXTINF:-1 group-title="咪咕直播",海峡卫视
 http://ss.baihuan.online:35455/mgtv/849119120.m3u8
-#EXTINF:-1 group-title="mgtv--列表",大湾区卫视
+#EXTINF:-1 group-title="咪咕直播",大湾区卫视
 http://ss.baihuan.online:35455/mgtv/608917627.m3u8
-#EXTINF:-1 group-title="mgtv--列表",大湾区卫视
+#EXTINF:-1 group-title="咪咕直播",大湾区卫视
 http://227w9f5104.zicp.fun:35455/mgtv/608917627.m3u8
-#EXTINF:-1 group-title="mgtv--列表",大湾区卫视
+#EXTINF:-1 group-title="咪咕直播",大湾区卫视
 http://alist.xicp.fun:35455/mgtv/608917627.m3u8
-#EXTINF:-1 group-title="mgtv--列表",大湾区卫视
+#EXTINF:-1 group-title="咪咕直播",大湾区卫视
 http://guyue0227.eicp.net:35455/mgtv/608917627.m3u8
-#EXTINF:-1 group-title="mgtv--列表",大湾区卫视
+#EXTINF:-1 group-title="咪咕直播",大湾区卫视
 http://i.880824.xyz:35455/mgtv/608917627.m3u8
-#EXTINF:-1 group-title="mgtv--列表",大湾区卫视
+#EXTINF:-1 group-title="咪咕直播",大湾区卫视
 http://jilin-02.tosunsoft.com:35455/mgtv/608917627.m3u8
-#EXTINF:-1 group-title="mgtv--列表",大湾区卫视
+#EXTINF:-1 group-title="咪咕直播",大湾区卫视
 http://kakaphone.pgrm.cc:9257/mgtv/608917627.m3u8
-#EXTINF:-1 group-title="mgtv--列表",大湾区卫视
+#EXTINF:-1 group-title="咪咕直播",大湾区卫视
 http://ychz.myds.me:35455/mgtv/608917627.m3u8
-#EXTINF:-1 group-title="mgtv--列表",大湾区卫视
+#EXTINF:-1 group-title="咪咕直播",大湾区卫视
 http://yemingjkl.x3322.net:35455/mgtv/608917627.m3u8
-#EXTINF:-1 group-title="mgtv--列表",四川卫视
+#EXTINF:-1 group-title="咪咕直播",四川卫视
 http://27.11.104.112:8002/udp/225.0.4.204:7980
-#EXTINF:-1 group-title="mgtv--列表",四川卫视
+#EXTINF:-1 group-title="咪咕直播",四川卫视
 http://123.10.78.45:808/hls/44/index.m3u8
-#EXTINF:-1 group-title="mgtv--列表",四川卫视
+#EXTINF:-1 group-title="咪咕直播",四川卫视
 http://fn.tmde.top:35455/nptv/sichuan.m3u8
-#EXTINF:-1 group-title="mgtv--列表",四川卫视
+#EXTINF:-1 group-title="咪咕直播",四川卫视
 http://120.238.94.10:9901/tsfile/live/1058_1.m3u8
-#EXTINF:-1 group-title="mgtv--列表",四川卫视
+#EXTINF:-1 group-title="咪咕直播",四川卫视
 http://119.32.12.17:2901/udp/224.1.100.72:11111
-#EXTINF:-1 group-title="mgtv--列表",四川卫视
+#EXTINF:-1 group-title="咪咕直播",四川卫视
 http://58.58.111.222:808/hls/36/index.m3u8
-#EXTINF:-1 group-title="mgtv--列表",四川卫视
+#EXTINF:-1 group-title="咪咕直播",四川卫视
 http://171.105.201.163:4022/udp/239.81.0.43:4056
-#EXTINF:-1 group-title="mgtv--列表",四川卫视
+#EXTINF:-1 group-title="咪咕直播",四川卫视
 http://171.105.201.163:4022/udp/239.81.0.130:4056
-#EXTINF:-1 group-title="mgtv--列表",四川卫视
+#EXTINF:-1 group-title="咪咕直播",四川卫视
 http://183.31.11.150:8000/udp/239.77.1.30:5146
-#EXTINF:-1 group-title="mgtv--列表",四川卫视
+#EXTINF:-1 group-title="咪咕直播",四川卫视
 http://183.31.11.150:8000/udp/239.77.0.60:5146
-#EXTINF:-1 group-title="mgtv--列表",四川卫视
+#EXTINF:-1 group-title="咪咕直播",四川卫视
 http://61.156.228.12:8154/tsfile/live/0123_1.m3u8
-#EXTINF:-1 group-title="mgtv--列表",四川卫视
+#EXTINF:-1 group-title="咪咕直播",四川卫视
 http://124.165.156.61:8899/tsfile/live/0123_1.m3u8
-#EXTINF:-1 group-title="mgtv--列表",四川卫视
+#EXTINF:-1 group-title="咪咕直播",四川卫视
 http://58.19.43.46:9901/tsfile/live/1043_1.m3u8
-#EXTINF:-1 group-title="mgtv--列表",四川卫视
+#EXTINF:-1 group-title="咪咕直播",四川卫视
 http://124.163.102.138:6000/rtp/226.0.2.42:8248
-#EXTINF:-1 group-title="mgtv--列表",四川卫视
+#EXTINF:-1 group-title="咪咕直播",四川卫视
 http://49.89.35.133:8800/rtp/239.49.1.43:6000
-#EXTINF:-1 group-title="mgtv--列表",四川卫视
+#EXTINF:-1 group-title="咪咕直播",四川卫视
 http://123.101.98.143:2000/rtp/239.16.10.20:2000
-#EXTINF:-1 group-title="mgtv--列表",四川卫视
+#EXTINF:-1 group-title="咪咕直播",四川卫视
 http://123.101.98.143:2000/rtp/239.16.20.86:10860
-#EXTINF:-1 group-title="mgtv--列表",四川卫视
+#EXTINF:-1 group-title="咪咕直播",四川卫视
 http://27.10.213.189:8005/udp/225.0.4.204:7980
-#EXTINF:-1 group-title="mgtv--列表",四川卫视
+#EXTINF:-1 group-title="咪咕直播",四川卫视
 http://27.184.29.189:4022/rtp/239.254.200.202:6325
-#EXTINF:-1 group-title="mgtv--列表",四川卫视
+#EXTINF:-1 group-title="咪咕直播",四川卫视
 http://113.15.109.216:59901/tsfile/live/0123_1.m3u8
-#EXTINF:-1 group-title="mgtv--列表",大湾区卫视
+#EXTINF:-1 group-title="咪咕直播",大湾区卫视
 http://110.40.39.111:10216/mgtv/608917627.m3u8
-#EXTINF:-1 group-title="mgtv--列表",东方卫视
+#EXTINF:-1 group-title="咪咕直播",东方卫视
 http://227w9f5104.zicp.fun:35455/mgtv/651632648.m3u8
-#EXTINF:-1 group-title="mgtv--列表",东方卫视
+#EXTINF:-1 group-title="咪咕直播",东方卫视
 http://guyue0227.eicp.net:35455/mgtv/651632648.m3u8
-#EXTINF:-1 group-title="mgtv--列表",东方卫视
+#EXTINF:-1 group-title="咪咕直播",东方卫视
 http://i.880824.xyz:35455/mgtv/651632648.m3u8
-#EXTINF:-1 group-title="mgtv--列表",东方卫视
+#EXTINF:-1 group-title="咪咕直播",东方卫视
 http://kakaphone.pgrm.cc:9257/mgtv/651632648.m3u8
-#EXTINF:-1 group-title="mgtv--列表",东方卫视
+#EXTINF:-1 group-title="咪咕直播",东方卫视
 http://ychz.myds.me:35455/mgtv/651632648.m3u8
-#EXTINF:-1 group-title="mgtv--列表",东方卫视
+#EXTINF:-1 group-title="咪咕直播",东方卫视
 http://yemingjkl.x3322.net:35455/mgtv/651632648.m3u8
-#EXTINF:-1 group-title="mgtv--列表",东南卫视
+#EXTINF:-1 group-title="咪咕直播",东南卫视
 http://227w9f5104.zicp.fun:35455/mgtv/849116810.m3u8
-#EXTINF:-1 group-title="mgtv--列表",东南卫视
+#EXTINF:-1 group-title="咪咕直播",东南卫视
 http://guyue0227.eicp.net:35455/mgtv/849116810.m3u8
-#EXTINF:-1 group-title="mgtv--列表",东南卫视
+#EXTINF:-1 group-title="咪咕直播",东南卫视
 http://i.880824.xyz:35455/mgtv/849116810.m3u8
-#EXTINF:-1 group-title="mgtv--列表",东南卫视
+#EXTINF:-1 group-title="咪咕直播",东南卫视
 http://jilin-02.tosunsoft.com:35455/mgtv/849116810.m3u8
-#EXTINF:-1 group-title="mgtv--列表",东南卫视
+#EXTINF:-1 group-title="咪咕直播",东南卫视
 http://kakaphone.pgrm.cc:9257/mgtv/849116810.m3u8
-#EXTINF:-1 group-title="mgtv--列表",东南卫视
+#EXTINF:-1 group-title="咪咕直播",东南卫视
 http://ychz.myds.me:35455/mgtv/849116810.m3u8
-#EXTINF:-1 group-title="mgtv--列表",广东卫视
+#EXTINF:-1 group-title="咪咕直播",广东卫视
 http://227w9f5104.zicp.fun:35455/mgtv/608831231.m3u8
-#EXTINF:-1 group-title="mgtv--列表",广东卫视
+#EXTINF:-1 group-title="咪咕直播",广东卫视
 http://alist.xicp.fun:35455/mgtv/608831231.m3u8
-#EXTINF:-1 group-title="mgtv--列表",广东卫视
+#EXTINF:-1 group-title="咪咕直播",广东卫视
 http://guyue0227.eicp.net:35455/mgtv/608831231.m3u8
-#EXTINF:-1 group-title="mgtv--列表",广东卫视
+#EXTINF:-1 group-title="咪咕直播",广东卫视
 http://i.880824.xyz:35455/mgtv/608831231.m3u8
-#EXTINF:-1 group-title="mgtv--列表",广东卫视
+#EXTINF:-1 group-title="咪咕直播",广东卫视
 http://jilin-02.tosunsoft.com:35455/mgtv/608831231.m3u8
-#EXTINF:-1 group-title="mgtv--列表",广东卫视
+#EXTINF:-1 group-title="咪咕直播",广东卫视
 http://kakaphone.pgrm.cc:9257/mgtv/608831231.m3u8
-#EXTINF:-1 group-title="mgtv--列表",广东卫视
+#EXTINF:-1 group-title="咪咕直播",广东卫视
 http://ychz.myds.me:35455/mgtv/608831231.m3u8
-#EXTINF:-1 group-title="mgtv--列表",广东卫视
+#EXTINF:-1 group-title="咪咕直播",广东卫视
 http://yemingjkl.x3322.net:35455/mgtv/608831231.m3u8
-#EXTINF:-1 group-title="mgtv--列表",海南卫视
+#EXTINF:-1 group-title="咪咕直播",海南卫视
 http://227w9f5104.zicp.fun:35455/mgtv/947472502.m3u8
-#EXTINF:-1 group-title="mgtv--列表",海南卫视
+#EXTINF:-1 group-title="咪咕直播",海南卫视
 http://alist.xicp.fun:35455/mgtv/947472502.m3u8
-#EXTINF:-1 group-title="mgtv--列表",海南卫视
+#EXTINF:-1 group-title="咪咕直播",海南卫视
 http://guyue0227.eicp.net:35455/mgtv/947472502.m3u8
-#EXTINF:-1 group-title="mgtv--列表",海南卫视
+#EXTINF:-1 group-title="咪咕直播",海南卫视
 http://i.880824.xyz:35455/mgtv/947472502.m3u8
-#EXTINF:-1 group-title="mgtv--列表",海南卫视
+#EXTINF:-1 group-title="咪咕直播",海南卫视
 http://jilin-02.tosunsoft.com:35455/mgtv/947472502.m3u8
-#EXTINF:-1 group-title="mgtv--列表",海南卫视
+#EXTINF:-1 group-title="咪咕直播",海南卫视
 http://kakaphone.pgrm.cc:9257/mgtv/947472502.m3u8
-#EXTINF:-1 group-title="mgtv--列表",海南卫视
+#EXTINF:-1 group-title="咪咕直播",海南卫视
 http://ychz.myds.me:35455/mgtv/947472502.m3u8
-#EXTINF:-1 group-title="mgtv--列表",海峡卫视
+#EXTINF:-1 group-title="咪咕直播",海峡卫视
 http://227w9f5104.zicp.fun:35455/mgtv/849119120.m3u8
-#EXTINF:-1 group-title="mgtv--列表",海峡卫视
+#EXTINF:-1 group-title="咪咕直播",海峡卫视
 http://guyue0227.eicp.net:35455/mgtv/849119120.m3u8
-#EXTINF:-1 group-title="mgtv--列表",海峡卫视
+#EXTINF:-1 group-title="咪咕直播",海峡卫视
 http://i.880824.xyz:35455/mgtv/849119120.m3u8
-#EXTINF:-1 group-title="mgtv--列表",海峡卫视
+#EXTINF:-1 group-title="咪咕直播",海峡卫视
 http://jilin-02.tosunsoft.com:35455/mgtv/849119120.m3u8
-#EXTINF:-1 group-title="mgtv--列表",海峡卫视
+#EXTINF:-1 group-title="咪咕直播",海峡卫视
 http://kakaphone.pgrm.cc:9257/mgtv/849119120.m3u8
-#EXTINF:-1 group-title="mgtv--列表",海峡卫视
+#EXTINF:-1 group-title="咪咕直播",海峡卫视
 http://ychz.myds.me:35455/mgtv/849119120.m3u8
-#EXTINF:-1 group-title="mgtv--列表",河南卫视
+#EXTINF:-1 group-title="咪咕直播",河南卫视
 http://227w9f5104.zicp.fun:35455/mgtv/790187291.m3u8
-#EXTINF:-1 group-title="mgtv--列表",河南卫视
+#EXTINF:-1 group-title="咪咕直播",河南卫视
 http://alist.xicp.fun:35455/mgtv/790187291.m3u8
-#EXTINF:-1 group-title="mgtv--列表",河南卫视
+#EXTINF:-1 group-title="咪咕直播",河南卫视
 http://guyue0227.eicp.net:35455/mgtv/790187291.m3u8
-#EXTINF:-1 group-title="mgtv--列表",河南卫视
+#EXTINF:-1 group-title="咪咕直播",河南卫视
 http://i.880824.xyz:35455/mgtv/790187291.m3u8
-#EXTINF:-1 group-title="mgtv--列表",河南卫视
+#EXTINF:-1 group-title="咪咕直播",河南卫视
 http://jilin-02.tosunsoft.com:35455/mgtv/790187291.m3u8
-#EXTINF:-1 group-title="mgtv--列表",河南卫视
+#EXTINF:-1 group-title="咪咕直播",河南卫视
 http://kakaphone.pgrm.cc:9257/mgtv/790187291.m3u8
-#EXTINF:-1 group-title="mgtv--列表",河南卫视
+#EXTINF:-1 group-title="咪咕直播",河南卫视
 http://ychz.myds.me:35455/mgtv/790187291.m3u8
-#EXTINF:-1 group-title="mgtv--列表",河南卫视
+#EXTINF:-1 group-title="咪咕直播",河南卫视
 http://yemingjkl.x3322.net:35455/mgtv/790187291.m3u8
-#EXTINF:-1 group-title="mgtv--列表",湖北卫视
+#EXTINF:-1 group-title="咪咕直播",湖北卫视
 http://227w9f5104.zicp.fun:35455/mgtv/947472496.m3u8
-#EXTINF:-1 group-title="mgtv--列表",湖北卫视
+#EXTINF:-1 group-title="咪咕直播",湖北卫视
 http://alist.xicp.fun:35455/mgtv/947472496.m3u8
-#EXTINF:-1 group-title="mgtv--列表",湖北卫视
+#EXTINF:-1 group-title="咪咕直播",湖北卫视
 http://guyue0227.eicp.net:35455/mgtv/947472496.m3u8
-#EXTINF:-1 group-title="mgtv--列表",湖北卫视
+#EXTINF:-1 group-title="咪咕直播",湖北卫视
 http://i.880824.xyz:35455/mgtv/947472496.m3u8
-#EXTINF:-1 group-title="mgtv--列表",湖北卫视
+#EXTINF:-1 group-title="咪咕直播",湖北卫视
 http://jilin-02.tosunsoft.com:35455/mgtv/947472496.m3u8
-#EXTINF:-1 group-title="mgtv--列表",湖北卫视
+#EXTINF:-1 group-title="咪咕直播",湖北卫视
 http://kakaphone.pgrm.cc:9257/mgtv/947472496.m3u8
-#EXTINF:-1 group-title="mgtv--列表",湖北卫视
+#EXTINF:-1 group-title="咪咕直播",湖北卫视
 http://ychz.myds.me:35455/mgtv/947472496.m3u8
-#EXTINF:-1 group-title="mgtv--列表",浙江卫视
+#EXTINF:-1 group-title="咪咕直播",浙江卫视
 http://27.11.104.112:8002/udp/225.0.4.81:7980
-#EXTINF:-1 group-title="mgtv--列表",浙江卫视
+#EXTINF:-1 group-title="咪咕直播",浙江卫视
 http://123.10.78.45:808/hls/35/index.m3u8
-#EXTINF:-1 group-title="mgtv--列表",浙江卫视
+#EXTINF:-1 group-title="咪咕直播",浙江卫视
 https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
-#EXTINF:-1 group-title="mgtv--列表",浙江卫视
+#EXTINF:-1 group-title="咪咕直播",浙江卫视
 http://58.17.48.228:808/hls/32/index.m3u8
-#EXTINF:-1 group-title="mgtv--列表",浙江卫视
+#EXTINF:-1 group-title="咪咕直播",浙江卫视
 http://ali-m-l.cztv.com:80/channels/lantian/channel001/1080p.m3u8
-#EXTINF:-1 group-title="mgtv--列表",浙江卫视
+#EXTINF:-1 group-title="咪咕直播",浙江卫视
 http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
-#EXTINF:-1 group-title="mgtv--列表",浙江卫视
+#EXTINF:-1 group-title="咪咕直播",浙江卫视
 https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8?%24%E6%B5%99%E6%B1%9F%E5%AE%98%E6%96%B9
-#EXTINF:-1 group-title="mgtv--列表",浙江卫视
+#EXTINF:-1 group-title="咪咕直播",浙江卫视
 http://171.105.201.163:4022/udp/239.81.0.31:4056
-#EXTINF:-1 group-title="mgtv--列表",浙江卫视
+#EXTINF:-1 group-title="咪咕直播",浙江卫视
 http://171.105.201.163:4022/udp/239.81.0.108:4056
-#EXTINF:-1 group-title="mgtv--列表",浙江卫视
+#EXTINF:-1 group-title="咪咕直播",浙江卫视
 http://183.31.11.150:8000/udp/239.77.1.32:5146
-#EXTINF:-1 group-title="mgtv--列表",浙江卫视
+#EXTINF:-1 group-title="咪咕直播",浙江卫视
 http://183.31.11.150:8000/udp/239.77.0.47:5146
-#EXTINF:-1 group-title="mgtv--列表",浙江卫视
+#EXTINF:-1 group-title="咪咕直播",浙江卫视
 http://61.156.228.12:8154/tsfile/live/0124_1.m3u8
-#EXTINF:-1 group-title="mgtv--列表",浙江卫视
+#EXTINF:-1 group-title="咪咕直播",浙江卫视
 http://124.165.156.61:8899/tsfile/live/0124_1.m3u8
-#EXTINF:-1 group-title="mgtv--列表",浙江卫视
+#EXTINF:-1 group-title="咪咕直播",浙江卫视
 http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8#mitv://generationnexxxt.com:19806/7bf4b3a65eaf421ab6d71bd8dcc4547a
-#EXTINF:-1 group-title="mgtv--列表",浙江卫视
+#EXTINF:-1 group-title="咪咕直播",浙江卫视
 http://8.138.7.223/tv/zjws.m3u8
-#EXTINF:-1 group-title="mgtv--列表",浙江卫视
+#EXTINF:-1 group-title="咪咕直播",浙江卫视
 http://58.19.43.46:9901/tsfile/live/1037_1.m3u8
-#EXTINF:-1 group-title="mgtv--列表",浙江卫视
+#EXTINF:-1 group-title="咪咕直播",浙江卫视
 http://124.163.102.138:6000/rtp/226.0.2.36:8200
-#EXTINF:-1 group-title="mgtv--列表",浙江卫视
+#EXTINF:-1 group-title="咪咕直播",浙江卫视
 http://49.89.35.133:8800/rtp/239.49.1.34:6000
-#EXTINF:-1 group-title="mgtv--列表",浙江卫视
+#EXTINF:-1 group-title="咪咕直播",浙江卫视
 http://123.101.98.143:2000/rtp/239.16.10.5:2000
-#EXTINF:-1 group-title="mgtv--列表",浙江卫视
+#EXTINF:-1 group-title="咪咕直播",浙江卫视
 http://123.101.98.143:2000/rtp/239.16.20.71:10710
-#EXTINF:-1 group-title="mgtv--列表",湖南卫视
+#EXTINF:-1 group-title="咪咕直播",湖南卫视
 http://27.11.104.112:8002/udp/225.0.4.75:7980
-#EXTINF:-1 group-title="mgtv--列表",湖南卫视
+#EXTINF:-1 group-title="咪咕直播",湖南卫视
 http://123.10.78.45:808/hls/33/index.m3u8
-#EXTINF:-1 group-title="mgtv--列表",湖南卫视
+#EXTINF:-1 group-title="咪咕直播",湖南卫视
 http://113.57.93.165:9900/tsfile/live/0128_1.m3u8
-#EXTINF:-1 group-title="mgtv--列表",湖南卫视
+#EXTINF:-1 group-title="咪咕直播",湖南卫视
 http://183.11.239.36:808/hls/36/index.m3u8
-#EXTINF:-1 group-title="mgtv--列表",湖南卫视
+#EXTINF:-1 group-title="咪咕直播",湖南卫视
 http://58.17.48.228:808/hls/31/index.m3u8
-#EXTINF:-1 group-title="mgtv--列表",湖南卫视
+#EXTINF:-1 group-title="咪咕直播",湖南卫视
 http://171.105.201.163:4022/udp/239.81.0.40:4056
-#EXTINF:-1 group-title="mgtv--列表",湖南卫视
+#EXTINF:-1 group-title="咪咕直播",湖南卫视
 http://171.105.201.163:4022/udp/239.81.0.110:4056
-#EXTINF:-1 group-title="mgtv--列表",湖南卫视
+#EXTINF:-1 group-title="咪咕直播",湖南卫视
 http://183.31.11.150:8000/udp/239.77.1.29:5146
-#EXTINF:-1 group-title="mgtv--列表",湖南卫视
+#EXTINF:-1 group-title="咪咕直播",湖南卫视
 http://183.31.11.150:8000/udp/239.77.0.46:5146
-#EXTINF:-1 group-title="mgtv--列表",湖南卫视
+#EXTINF:-1 group-title="咪咕直播",湖南卫视
 http://61.156.228.12:8154/tsfile/live/0128_1.m3u8
-#EXTINF:-1 group-title="mgtv--列表",湖南卫视
+#EXTINF:-1 group-title="咪咕直播",湖南卫视
 http://124.165.156.61:8899/tsfile/live/0128_1.m3u8
-#EXTINF:-1 group-title="mgtv--列表",湖南卫视
+#EXTINF:-1 group-title="咪咕直播",湖南卫视
 http://39.164.180.36:19901/tsfile/live/0128_2.m3u8
-#EXTINF:-1 group-title="mgtv--列表",湖南卫视
+#EXTINF:-1 group-title="咪咕直播",湖南卫视
 http://39.164.160.249:9901/tsfile/live/0128_1.m3u8
-#EXTINF:-1 group-title="mgtv--列表",湖南卫视
+#EXTINF:-1 group-title="咪咕直播",湖南卫视
 https://smart.pendy.dpdns.org/Smart.php?id=hunan_twn
-#EXTINF:-1 group-title="mgtv--列表",湖南卫视
+#EXTINF:-1 group-title="咪咕直播",湖南卫视
 http://124.163.102.138:6000/rtp/226.0.2.33:8176
-#EXTINF:-1 group-title="mgtv--列表",湖南卫视
+#EXTINF:-1 group-title="咪咕直播",湖南卫视
 http://49.89.35.133:8800/rtp/239.49.1.38:6000
-#EXTINF:-1 group-title="mgtv--列表",湖南卫视
+#EXTINF:-1 group-title="咪咕直播",湖南卫视
 http://123.101.98.143:2000/rtp/239.16.10.6:2000
-#EXTINF:-1 group-title="mgtv--列表",湖南卫视
+#EXTINF:-1 group-title="咪咕直播",湖南卫视
 http://123.101.98.143:2000/rtp/239.16.20.72:10720
-#EXTINF:-1 group-title="mgtv--列表",湖南卫视
+#EXTINF:-1 group-title="咪咕直播",湖南卫视
 http://27.10.213.189:8005/udp/225.0.4.75:7980
-#EXTINF:-1 group-title="mgtv--列表",湖南卫视
+#EXTINF:-1 group-title="咪咕直播",湖南卫视
 http://27.184.29.189:4022/rtp/239.254.200.48:8012
-#EXTINF:-1 group-title="mgtv--列表",湖南电影
+#EXTINF:-1 group-title="咪咕直播",湖南电影
 http://tvbox6.icu/tv/mgtv.php?id=221
-#EXTINF:-1 group-title="mgtv--列表",湖南都市
+#EXTINF:-1 group-title="咪咕直播",湖南都市
 http://tvbox6.icu/tv/mgtv.php?id=346
-#EXTINF:-1 group-title="mgtv--列表",湖南电视剧
+#EXTINF:-1 group-title="咪咕直播",湖南电视剧
 http://tvbox6.icu/tv/mgtv.php?id=484
-#EXTINF:-1 group-title="mgtv--列表",湖南爱晚
+#EXTINF:-1 group-title="咪咕直播",湖南爱晚
 http://tvbox6.icu/tv/mgtv.php?id=261
-#EXTINF:-1 group-title="mgtv--列表",湖南国际
+#EXTINF:-1 group-title="咪咕直播",湖南国际
 http://tvbox6.icu/tv/mgtv.php?id=229
-#EXTINF:-1 group-title="mgtv--列表",湖南娱乐
+#EXTINF:-1 group-title="咪咕直播",湖南娱乐
 http://tvbox6.icu/tv/mgtv.php?id=344
-#EXTINF:-1 group-title="mgtv--列表",吉林卫视
+#EXTINF:-1 group-title="咪咕直播",吉林卫视
 http://227w9f5104.zicp.fun:35455/mgtv/947472500.m3u8
-#EXTINF:-1 group-title="mgtv--列表",吉林卫视
+#EXTINF:-1 group-title="咪咕直播",吉林卫视
 http://alist.xicp.fun:35455/mgtv/947472500.m3u8
-#EXTINF:-1 group-title="mgtv--列表",吉林卫视
+#EXTINF:-1 group-title="咪咕直播",吉林卫视
 http://guyue0227.eicp.net:35455/mgtv/947472500.m3u8
-#EXTINF:-1 group-title="mgtv--列表",吉林卫视
+#EXTINF:-1 group-title="咪咕直播",吉林卫视
 http://i.880824.xyz:35455/mgtv/947472500.m3u8
-#EXTINF:-1 group-title="mgtv--列表",吉林卫视
+#EXTINF:-1 group-title="咪咕直播",吉林卫视
 http://jilin-02.tosunsoft.com:35455/mgtv/947472500.m3u8
-#EXTINF:-1 group-title="mgtv--列表",吉林卫视
+#EXTINF:-1 group-title="咪咕直播",吉林卫视
 http://kakaphone.pgrm.cc:9257/mgtv/947472500.m3u8
-#EXTINF:-1 group-title="mgtv--列表",吉林卫视
+#EXTINF:-1 group-title="咪咕直播",吉林卫视
 http://ychz.myds.me:35455/mgtv/947472500.m3u8
-#EXTINF:-1 group-title="mgtv--列表",吉林卫视
+#EXTINF:-1 group-title="咪咕直播",吉林卫视
 http://yemingjkl.x3322.net:35455/mgtv/947472500.m3u8
-#EXTINF:-1 group-title="mgtv--列表",江苏卫视
+#EXTINF:-1 group-title="咪咕直播",江苏卫视
 http://227w9f5104.zicp.fun:35455/mgtv/623899368.m3u8
-#EXTINF:-1 group-title="mgtv--列表",江苏卫视
+#EXTINF:-1 group-title="咪咕直播",江苏卫视
 http://alist.xicp.fun:35455/mgtv/623899368.m3u8
-#EXTINF:-1 group-title="mgtv--列表",江苏卫视
+#EXTINF:-1 group-title="咪咕直播",江苏卫视
 http://guyue0227.eicp.net:35455/mgtv/623899368.m3u8
-#EXTINF:-1 group-title="mgtv--列表",江苏卫视
+#EXTINF:-1 group-title="咪咕直播",江苏卫视
 http://i.880824.xyz:35455/mgtv/623899368.m3u8
-#EXTINF:-1 group-title="mgtv--列表",江苏卫视
+#EXTINF:-1 group-title="咪咕直播",江苏卫视
 http://jilin-02.tosunsoft.com:35455/mgtv/623899368.m3u8
-#EXTINF:-1 group-title="mgtv--列表",江苏卫视
+#EXTINF:-1 group-title="咪咕直播",江苏卫视
 http://kakaphone.pgrm.cc:9257/mgtv/623899368.m3u8
-#EXTINF:-1 group-title="mgtv--列表",江苏卫视
+#EXTINF:-1 group-title="咪咕直播",江苏卫视
 http://ychz.myds.me:35455/mgtv/623899368.m3u8
-#EXTINF:-1 group-title="mgtv--列表",江苏卫视
+#EXTINF:-1 group-title="咪咕直播",江苏卫视
 http://yemingjkl.x3322.net:35455/mgtv/623899368.m3u8
-#EXTINF:-1 group-title="mgtv--列表",江西卫视
+#EXTINF:-1 group-title="咪咕直播",江西卫视
 http://227w9f5104.zicp.fun:35455/mgtv/783847495.m3u8
-#EXTINF:-1 group-title="mgtv--列表",江西卫视
+#EXTINF:-1 group-title="咪咕直播",江西卫视
 http://alist.xicp.fun:35455/mgtv/783847495.m3u8
-#EXTINF:-1 group-title="mgtv--列表",江西卫视
+#EXTINF:-1 group-title="咪咕直播",江西卫视
 http://guyue0227.eicp.net:35455/mgtv/783847495.m3u8
-#EXTINF:-1 group-title="mgtv--列表",江西卫视
+#EXTINF:-1 group-title="咪咕直播",江西卫视
 http://i.880824.xyz:35455/mgtv/783847495.m3u8
-#EXTINF:-1 group-title="mgtv--列表",江西卫视
+#EXTINF:-1 group-title="咪咕直播",江西卫视
 http://jilin-02.tosunsoft.com:35455/mgtv/783847495.m3u8
-#EXTINF:-1 group-title="mgtv--列表",江西卫视
+#EXTINF:-1 group-title="咪咕直播",江西卫视
 http://kakaphone.pgrm.cc:9257/mgtv/783847495.m3u8
-#EXTINF:-1 group-title="mgtv--列表",江西卫视
+#EXTINF:-1 group-title="咪咕直播",江西卫视
 http://ychz.myds.me:35455/mgtv/783847495.m3u8
-#EXTINF:-1 group-title="mgtv--列表",江西卫视
+#EXTINF:-1 group-title="咪咕直播",江西卫视
 http://yemingjkl.x3322.net:35455/mgtv/783847495.m3u8
-#EXTINF:-1 group-title="mgtv--列表",陕西卫视
+#EXTINF:-1 group-title="咪咕直播",陕西卫视
 http://227w9f5104.zicp.fun:35455/mgtv/738910838.m3u8
-#EXTINF:-1 group-title="mgtv--列表",陕西卫视
+#EXTINF:-1 group-title="咪咕直播",陕西卫视
 http://alist.xicp.fun:35455/mgtv/738910838.m3u8
-#EXTINF:-1 group-title="mgtv--列表",陕西卫视
+#EXTINF:-1 group-title="咪咕直播",陕西卫视
 http://guyue0227.eicp.net:35455/mgtv/738910838.m3u8
-#EXTINF:-1 group-title="mgtv--列表",陕西卫视
+#EXTINF:-1 group-title="咪咕直播",陕西卫视
 http://i.880824.xyz:35455/mgtv/738910838.m3u8
-#EXTINF:-1 group-title="mgtv--列表",陕西卫视
+#EXTINF:-1 group-title="咪咕直播",陕西卫视
 http://jilin-02.tosunsoft.com:35455/mgtv/738910838.m3u8
-#EXTINF:-1 group-title="mgtv--列表",陕西卫视
+#EXTINF:-1 group-title="咪咕直播",陕西卫视
 http://kakaphone.pgrm.cc:9257/mgtv/738910838.m3u8
-#EXTINF:-1 group-title="mgtv--列表",陕西卫视
+#EXTINF:-1 group-title="咪咕直播",陕西卫视
 http://ychz.myds.me:35455/mgtv/738910838.m3u8
-#EXTINF:-1 group-title="mgtv--列表",青海卫视
+#EXTINF:-1 group-title="咪咕直播",青海卫视
 http://227w9f5104.zicp.fun:35455/mgtv/947472506.m3u8
-#EXTINF:-1 group-title="mgtv--列表",青海卫视
+#EXTINF:-1 group-title="咪咕直播",青海卫视
 http://alist.xicp.fun:35455/mgtv/947472506.m3u8
-#EXTINF:-1 group-title="mgtv--列表",青海卫视
+#EXTINF:-1 group-title="咪咕直播",青海卫视
 http://guyue0227.eicp.net:35455/mgtv/947472506.m3u8
-#EXTINF:-1 group-title="mgtv--列表",青海卫视
+#EXTINF:-1 group-title="咪咕直播",青海卫视
 http://i.880824.xyz:35455/mgtv/947472506.m3u8
-#EXTINF:-1 group-title="mgtv--列表",青海卫视
+#EXTINF:-1 group-title="咪咕直播",青海卫视
 http://jilin-02.tosunsoft.com:35455/mgtv/947472506.m3u8
-#EXTINF:-1 group-title="mgtv--列表",青海卫视
+#EXTINF:-1 group-title="咪咕直播",青海卫视
 http://kakaphone.pgrm.cc:9257/mgtv/947472506.m3u8
-#EXTINF:-1 group-title="mgtv--列表",青海卫视
+#EXTINF:-1 group-title="咪咕直播",青海卫视
 http://ychz.myds.me:35455/mgtv/947472506.m3u8
-#EXTINF:-1 group-title="mgtv--列表",青海卫视
+#EXTINF:-1 group-title="咪咕直播",青海卫视
 http://yemingjkl.x3322.net:35455/mgtv/947472506.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CETV1
+#EXTINF:-1 group-title="咪咕直播",CETV1
 http://227w9f5104.zicp.fun:35455/mgtv/923287154.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CETV1
+#EXTINF:-1 group-title="咪咕直播",CETV1
 http://alist.xicp.fun:35455/mgtv/923287154.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CETV1
+#EXTINF:-1 group-title="咪咕直播",CETV1
 http://guyue0227.eicp.net:35455/mgtv/923287154.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CETV1
+#EXTINF:-1 group-title="咪咕直播",CETV1
 http://i.880824.xyz:35455/mgtv/923287154.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CETV1
+#EXTINF:-1 group-title="咪咕直播",CETV1
 http://jilin-02.tosunsoft.com:35455/mgtv/923287154.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CETV1
+#EXTINF:-1 group-title="咪咕直播",CETV1
 http://kakaphone.pgrm.cc:9257/mgtv/923287154.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CETV1
+#EXTINF:-1 group-title="咪咕直播",CETV1
 http://ychz.myds.me:35455/mgtv/923287154.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CETV1
+#EXTINF:-1 group-title="咪咕直播",CETV1
 http://yemingjkl.x3322.net:35455/mgtv/923287154.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CETV2
+#EXTINF:-1 group-title="咪咕直播",CETV2
 http://227w9f5104.zicp.fun:35455/mgtv/923287211.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CETV2
+#EXTINF:-1 group-title="咪咕直播",CETV2
 http://alist.xicp.fun:35455/mgtv/923287211.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CETV2
+#EXTINF:-1 group-title="咪咕直播",CETV2
 http://guyue0227.eicp.net:35455/mgtv/923287211.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CETV2
+#EXTINF:-1 group-title="咪咕直播",CETV2
 http://i.880824.xyz:35455/mgtv/923287211.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CETV2
+#EXTINF:-1 group-title="咪咕直播",CETV2
 http://jilin-02.tosunsoft.com:35455/mgtv/923287211.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CETV2
+#EXTINF:-1 group-title="咪咕直播",CETV2
 http://kakaphone.pgrm.cc:9257/mgtv/923287211.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CETV2
+#EXTINF:-1 group-title="咪咕直播",CETV2
 http://ychz.myds.me:35455/mgtv/923287211.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CETV2
+#EXTINF:-1 group-title="咪咕直播",CETV2
 http://yemingjkl.x3322.net:35455/mgtv/923287211.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CETV4
+#EXTINF:-1 group-title="咪咕直播",CETV4
 http://227w9f5104.zicp.fun:35455/mgtv/923287339.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CETV4
+#EXTINF:-1 group-title="咪咕直播",CETV4
 http://alist.xicp.fun:35455/mgtv/923287339.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CETV4
+#EXTINF:-1 group-title="咪咕直播",CETV4
 http://guyue0227.eicp.net:35455/mgtv/923287339.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CETV4
+#EXTINF:-1 group-title="咪咕直播",CETV4
 http://i.880824.xyz:35455/mgtv/923287339.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CETV4
+#EXTINF:-1 group-title="咪咕直播",CETV4
 http://jilin-02.tosunsoft.com:35455/mgtv/923287339.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CETV4
+#EXTINF:-1 group-title="咪咕直播",CETV4
 http://kakaphone.pgrm.cc:9257/mgtv/923287339.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CETV4
+#EXTINF:-1 group-title="咪咕直播",CETV4
 http://ychz.myds.me:35455/mgtv/923287339.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CETV4
+#EXTINF:-1 group-title="咪咕直播",CETV4
 http://yemingjkl.x3322.net:35455/mgtv/923287339.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CGTN
+#EXTINF:-1 group-title="咪咕直播",CGTN
 http://227w9f5104.zicp.fun:35455/mgtv/609017205.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CGTN
+#EXTINF:-1 group-title="咪咕直播",CGTN
 http://alist.xicp.fun:35455/mgtv/609017205.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CGTN
+#EXTINF:-1 group-title="咪咕直播",CGTN
 http://guyue0227.eicp.net:35455/mgtv/609017205.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CGTN
+#EXTINF:-1 group-title="咪咕直播",CGTN
 http://i.880824.xyz:35455/mgtv/609017205.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CGTN
+#EXTINF:-1 group-title="咪咕直播",CGTN
 http://jilin-02.tosunsoft.com:35455/mgtv/609017205.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CGTN
+#EXTINF:-1 group-title="咪咕直播",CGTN
 http://ychz.myds.me:35455/mgtv/609017205.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CGTN
+#EXTINF:-1 group-title="咪咕直播",CGTN
 http://yemingjkl.x3322.net:35455/mgtv/609017205.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CHC动作电影
+#EXTINF:-1 group-title="咪咕直播",CHC动作电影
 http://227w9f5104.zicp.fun:35455/mgtv/644368714.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CHC动作电影
+#EXTINF:-1 group-title="咪咕直播",CHC动作电影
 http://alist.xicp.fun:35455/mgtv/644368714.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CHC动作电影
+#EXTINF:-1 group-title="咪咕直播",CHC动作电影
 http://guyue0227.eicp.net:35455/mgtv/644368714.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CHC动作电影
+#EXTINF:-1 group-title="咪咕直播",CHC动作电影
 http://i.880824.xyz:35455/mgtv/644368714.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CHC动作电影
+#EXTINF:-1 group-title="咪咕直播",CHC动作电影
 http://jilin-02.tosunsoft.com:35455/mgtv/644368714.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CHC动作电影
+#EXTINF:-1 group-title="咪咕直播",CHC动作电影
 http://kakaphone.pgrm.cc:9257/mgtv/644368714.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CHC动作电影
+#EXTINF:-1 group-title="咪咕直播",CHC动作电影
 http://ychz.myds.me:35455/mgtv/644368714.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CHC动作电影
+#EXTINF:-1 group-title="咪咕直播",CHC动作电影
 http://yemingjkl.x3322.net:35455/mgtv/644368714.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CHC家庭影院
+#EXTINF:-1 group-title="咪咕直播",CHC家庭影院
 http://227w9f5104.zicp.fun:35455/mgtv/644368373.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CHC家庭影院
+#EXTINF:-1 group-title="咪咕直播",CHC家庭影院
 http://alist.xicp.fun:35455/mgtv/644368373.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CHC家庭影院
+#EXTINF:-1 group-title="咪咕直播",CHC家庭影院
 http://guyue0227.eicp.net:35455/mgtv/644368373.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CHC家庭影院
+#EXTINF:-1 group-title="咪咕直播",CHC家庭影院
 http://i.880824.xyz:35455/mgtv/644368373.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CHC家庭影院
+#EXTINF:-1 group-title="咪咕直播",CHC家庭影院
 http://jilin-02.tosunsoft.com:35455/mgtv/644368373.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CHC家庭影院
+#EXTINF:-1 group-title="咪咕直播",CHC家庭影院
 http://kakaphone.pgrm.cc:9257/mgtv/644368373.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CHC家庭影院
+#EXTINF:-1 group-title="咪咕直播",CHC家庭影院
 http://ychz.myds.me:35455/mgtv/644368373.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CHC家庭影院
+#EXTINF:-1 group-title="咪咕直播",CHC家庭影院
 http://yemingjkl.x3322.net:35455/mgtv/644368373.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CHC影迷电影
+#EXTINF:-1 group-title="咪咕直播",CHC影迷电影
 http://227w9f5104.zicp.fun:35455/mgtv/952383261.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CHC影迷电影
+#EXTINF:-1 group-title="咪咕直播",CHC影迷电影
 http://alist.xicp.fun:35455/mgtv/952383261.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CHC影迷电影
+#EXTINF:-1 group-title="咪咕直播",CHC影迷电影
 http://guyue0227.eicp.net:35455/mgtv/952383261.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CHC影迷电影
+#EXTINF:-1 group-title="咪咕直播",CHC影迷电影
 http://i.880824.xyz:35455/mgtv/952383261.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CHC影迷电影
+#EXTINF:-1 group-title="咪咕直播",CHC影迷电影
 http://jilin-02.tosunsoft.com:35455/mgtv/952383261.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CHC影迷电影
+#EXTINF:-1 group-title="咪咕直播",CHC影迷电影
 http://kakaphone.pgrm.cc:9257/mgtv/952383261.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CHC影迷电影
+#EXTINF:-1 group-title="咪咕直播",CHC影迷电影
 http://ychz.myds.me:35455/mgtv/952383261.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CHC影迷电影
+#EXTINF:-1 group-title="咪咕直播",CHC影迷电影
 http://yemingjkl.x3322.net:35455/mgtv/952383261.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CHC动作电影
+#EXTINF:-1 group-title="咪咕直播",CHC动作电影
 http://fn.tmde.top:35455/mgtv/644368714.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CHC动作电影
+#EXTINF:-1 group-title="咪咕直播",CHC动作电影
 http://110.40.39.111:10216/mgtv/644368714.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CHC影迷电影
+#EXTINF:-1 group-title="咪咕直播",CHC影迷电影
 http://fn.tmde.top:35455/mgtv/952383261.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CHC影迷电影
+#EXTINF:-1 group-title="咪咕直播",CHC影迷电影
 http://110.40.39.111:10216/mgtv/952383261.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CHC家庭影院
+#EXTINF:-1 group-title="咪咕直播",CHC家庭影院
 http://110.40.39.111:10216/mgtv/644368373.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CHC家庭影院
+#EXTINF:-1 group-title="咪咕直播",CHC家庭影院
 http://fn.tmde.top:35455/mgtv/644368373.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CHC动作电影
+#EXTINF:-1 group-title="咪咕直播",CHC动作电影
 http://ss.baihuan.online:35455/mgtv/644368714.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CHC影迷电影
+#EXTINF:-1 group-title="咪咕直播",CHC影迷电影
 http://ss.baihuan.online:35455/mgtv/952383261.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CHC家庭影院
+#EXTINF:-1 group-title="咪咕直播",CHC家庭影院
 http://ss.baihuan.online:35455/mgtv/644368373.m3u8
-#EXTINF:-1 group-title="mgtv--列表",CHC动作电影
+#EXTINF:-1 group-title="咪咕直播",CHC动作电影
 http://14.103.160.213:8098/mgtv/644368714.m3u8?key=txiptv
-#EXTINF:-1 group-title="mgtv--列表",CHC影迷电影
+#EXTINF:-1 group-title="咪咕直播",CHC影迷电影
 http://14.103.160.213:8098/mgtv/952383261.m3u8?key=txiptv
-#EXTINF:-1 group-title="mgtv--列表",CHC家庭影院
+#EXTINF:-1 group-title="咪咕直播",CHC家庭影院
 http://14.103.160.213:8098/mgtv/644368373.m3u8?key=txiptv
-#EXTINF:-1 group-title="mgtv--列表",高清大片
+#EXTINF:-1 group-title="咪咕直播",高清大片
 http://227w9f5104.zicp.fun:35455/mgtv/629943678.m3u8
-#EXTINF:-1 group-title="mgtv--列表",高清大片
+#EXTINF:-1 group-title="咪咕直播",高清大片
 http://alist.xicp.fun:35455/mgtv/629943678.m3u8
-#EXTINF:-1 group-title="mgtv--列表",高清大片
+#EXTINF:-1 group-title="咪咕直播",高清大片
 http://guyue0227.eicp.net:35455/mgtv/629943678.m3u8
-#EXTINF:-1 group-title="mgtv--列表",高清大片
+#EXTINF:-1 group-title="咪咕直播",高清大片
 http://i.880824.xyz:35455/mgtv/629943678.m3u8
-#EXTINF:-1 group-title="mgtv--列表",高清大片
+#EXTINF:-1 group-title="咪咕直播",高清大片
 http://jilin-02.tosunsoft.com:35455/mgtv/629943678.m3u8
-#EXTINF:-1 group-title="mgtv--列表",高清大片
+#EXTINF:-1 group-title="咪咕直播",高清大片
 http://kakaphone.pgrm.cc:9257/mgtv/629943678.m3u8
-#EXTINF:-1 group-title="mgtv--列表",高清大片
+#EXTINF:-1 group-title="咪咕直播",高清大片
 http://ychz.myds.me:35455/mgtv/629943678.m3u8
-#EXTINF:-1 group-title="mgtv--列表",高清大片
+#EXTINF:-1 group-title="咪咕直播",高清大片
 http://yemingjkl.x3322.net:35455/mgtv/629943678.m3u8
-#EXTINF:-1 group-title="mgtv--列表",新片放映厅
+#EXTINF:-1 group-title="咪咕直播",新片放映厅
 http://227w9f5104.zicp.fun:35455/mgtv/619495952.m3u8
-#EXTINF:-1 group-title="mgtv--列表",新片放映厅
+#EXTINF:-1 group-title="咪咕直播",新片放映厅
 http://alist.xicp.fun:35455/mgtv/619495952.m3u8
-#EXTINF:-1 group-title="mgtv--列表",新片放映厅
+#EXTINF:-1 group-title="咪咕直播",新片放映厅
 http://guyue0227.eicp.net:35455/mgtv/619495952.m3u8
-#EXTINF:-1 group-title="mgtv--列表",新片放映厅
+#EXTINF:-1 group-title="咪咕直播",新片放映厅
 http://i.880824.xyz:35455/mgtv/619495952.m3u8
-#EXTINF:-1 group-title="mgtv--列表",新片放映厅
+#EXTINF:-1 group-title="咪咕直播",新片放映厅
 http://jilin-02.tosunsoft.com:35455/mgtv/619495952.m3u8
-#EXTINF:-1 group-title="mgtv--列表",新片放映厅
+#EXTINF:-1 group-title="咪咕直播",新片放映厅
 http://kakaphone.pgrm.cc:9257/mgtv/619495952.m3u8
-#EXTINF:-1 group-title="mgtv--列表",新片放映厅
+#EXTINF:-1 group-title="咪咕直播",新片放映厅
 http://ychz.myds.me:35455/mgtv/619495952.m3u8
-#EXTINF:-1 group-title="mgtv--列表",新片放映厅
+#EXTINF:-1 group-title="咪咕直播",新片放映厅
 http://yemingjkl.x3322.net:35455/mgtv/619495952.m3u8
-#EXTINF:-1 group-title="mgtv--列表",南方影视
+#EXTINF:-1 group-title="咪咕直播",南方影视
 http://227w9f5104.zicp.fun:35455/mgtv/614961829.m3u8
-#EXTINF:-1 group-title="mgtv--列表",南方影视
+#EXTINF:-1 group-title="咪咕直播",南方影视
 http://alist.xicp.fun:35455/mgtv/614961829.m3u8
-#EXTINF:-1 group-title="mgtv--列表",南方影视
+#EXTINF:-1 group-title="咪咕直播",南方影视
 http://guyue0227.eicp.net:35455/mgtv/614961829.m3u8
-#EXTINF:-1 group-title="mgtv--列表",南方影视
+#EXTINF:-1 group-title="咪咕直播",南方影视
 http://i.880824.xyz:35455/mgtv/614961829.m3u8
-#EXTINF:-1 group-title="mgtv--列表",南方影视
+#EXTINF:-1 group-title="咪咕直播",南方影视
 http://jilin-02.tosunsoft.com:35455/mgtv/614961829.m3u8
-#EXTINF:-1 group-title="mgtv--列表",南方影视
+#EXTINF:-1 group-title="咪咕直播",南方影视
 http://kakaphone.pgrm.cc:9257/mgtv/614961829.m3u8
-#EXTINF:-1 group-title="mgtv--列表",南方影视
+#EXTINF:-1 group-title="咪咕直播",南方影视
 http://ychz.myds.me:35455/mgtv/614961829.m3u8
-#EXTINF:-1 group-title="mgtv--列表",南方影视
+#EXTINF:-1 group-title="咪咕直播",南方影视
 http://yemingjkl.x3322.net:35455/mgtv/614961829.m3u8
-#EXTINF:-1 group-title="mgtv--列表",青春怀旧剧场
+#EXTINF:-1 group-title="咪咕直播",青春怀旧剧场
 http://227w9f5104.zicp.fun:35455/mgtv/617432318.m3u8
-#EXTINF:-1 group-title="mgtv--列表",青春怀旧剧场
+#EXTINF:-1 group-title="咪咕直播",青春怀旧剧场
 http://alist.xicp.fun:35455/mgtv/617432318.m3u8
-#EXTINF:-1 group-title="mgtv--列表",青春怀旧剧场
+#EXTINF:-1 group-title="咪咕直播",青春怀旧剧场
 http://guyue0227.eicp.net:35455/mgtv/617432318.m3u8
-#EXTINF:-1 group-title="mgtv--列表",青春怀旧剧场
+#EXTINF:-1 group-title="咪咕直播",青春怀旧剧场
 http://i.880824.xyz:35455/mgtv/617432318.m3u8
-#EXTINF:-1 group-title="mgtv--列表",青春怀旧剧场
+#EXTINF:-1 group-title="咪咕直播",青春怀旧剧场
 http://jilin-02.tosunsoft.com:35455/mgtv/617432318.m3u8
-#EXTINF:-1 group-title="mgtv--列表",青春怀旧剧场
+#EXTINF:-1 group-title="咪咕直播",青春怀旧剧场
 http://kakaphone.pgrm.cc:9257/mgtv/617432318.m3u8
-#EXTINF:-1 group-title="mgtv--列表",青春怀旧剧场
+#EXTINF:-1 group-title="咪咕直播",青春怀旧剧场
 http://ychz.myds.me:35455/mgtv/617432318.m3u8
-#EXTINF:-1 group-title="mgtv--列表",青春怀旧剧场
+#EXTINF:-1 group-title="咪咕直播",青春怀旧剧场
 http://yemingjkl.x3322.net:35455/mgtv/617432318.m3u8
-#EXTINF:-1 group-title="mgtv--列表",上视东方影视
+#EXTINF:-1 group-title="咪咕直播",上视东方影视
 http://227w9f5104.zicp.fun:35455/mgtv/617290047.m3u8
-#EXTINF:-1 group-title="mgtv--列表",上视东方影视
+#EXTINF:-1 group-title="咪咕直播",上视东方影视
 http://guyue0227.eicp.net:35455/mgtv/617290047.m3u8
-#EXTINF:-1 group-title="mgtv--列表",上视东方影视
+#EXTINF:-1 group-title="咪咕直播",上视东方影视
 http://i.880824.xyz:35455/mgtv/617290047.m3u8
-#EXTINF:-1 group-title="mgtv--列表",上视东方影视
+#EXTINF:-1 group-title="咪咕直播",上视东方影视
 http://jilin-02.tosunsoft.com:35455/mgtv/617290047.m3u8
-#EXTINF:-1 group-title="mgtv--列表",上视东方影视
+#EXTINF:-1 group-title="咪咕直播",上视东方影视
 http://ychz.myds.me:35455/mgtv/617290047.m3u8
-#EXTINF:-1 group-title="mgtv--列表",最强综艺趴
+#EXTINF:-1 group-title="咪咕直播",最强综艺趴
 http://227w9f5104.zicp.fun:35455/mgtv/629942228.m3u8
-#EXTINF:-1 group-title="mgtv--列表",最强综艺趴
+#EXTINF:-1 group-title="咪咕直播",最强综艺趴
 http://alist.xicp.fun:35455/mgtv/629942228.m3u8
-#EXTINF:-1 group-title="mgtv--列表",最强综艺趴
+#EXTINF:-1 group-title="咪咕直播",最强综艺趴
 http://guyue0227.eicp.net:35455/mgtv/629942228.m3u8
-#EXTINF:-1 group-title="mgtv--列表",最强综艺趴
+#EXTINF:-1 group-title="咪咕直播",最强综艺趴
 http://i.880824.xyz:35455/mgtv/629942228.m3u8
-#EXTINF:-1 group-title="mgtv--列表",最强综艺趴
+#EXTINF:-1 group-title="咪咕直播",最强综艺趴
 http://jilin-02.tosunsoft.com:35455/mgtv/629942228.m3u8
-#EXTINF:-1 group-title="mgtv--列表",最强综艺趴
+#EXTINF:-1 group-title="咪咕直播",最强综艺趴
 http://kakaphone.pgrm.cc:9257/mgtv/629942228.m3u8
-#EXTINF:-1 group-title="mgtv--列表",最强综艺趴
+#EXTINF:-1 group-title="咪咕直播",最强综艺趴
 http://ychz.myds.me:35455/mgtv/629942228.m3u8
-#EXTINF:-1 group-title="mgtv--列表",最强综艺趴
+#EXTINF:-1 group-title="咪咕直播",最强综艺趴
 http://yemingjkl.x3322.net:35455/mgtv/629942228.m3u8
-#EXTINF:-1 group-title="mgtv--列表",深度对话
+#EXTINF:-1 group-title="咪咕直播",深度对话
 http://227w9f5104.zicp.fun:35455/mgtv/625703337.m3u8
-#EXTINF:-1 group-title="mgtv--列表",深度对话
+#EXTINF:-1 group-title="咪咕直播",深度对话
 http://alist.xicp.fun:35455/mgtv/625703337.m3u8
-#EXTINF:-1 group-title="mgtv--列表",深度对话
+#EXTINF:-1 group-title="咪咕直播",深度对话
 http://guyue0227.eicp.net:35455/mgtv/625703337.m3u8
-#EXTINF:-1 group-title="mgtv--列表",深度对话
+#EXTINF:-1 group-title="咪咕直播",深度对话
 http://i.880824.xyz:35455/mgtv/625703337.m3u8
-#EXTINF:-1 group-title="mgtv--列表",深度对话
+#EXTINF:-1 group-title="咪咕直播",深度对话
 http://jilin-02.tosunsoft.com:35455/mgtv/625703337.m3u8
-#EXTINF:-1 group-title="mgtv--列表",深度对话
+#EXTINF:-1 group-title="咪咕直播",深度对话
 http://kakaphone.pgrm.cc:9257/mgtv/625703337.m3u8
-#EXTINF:-1 group-title="mgtv--列表",深度对话
+#EXTINF:-1 group-title="咪咕直播",深度对话
 http://ychz.myds.me:35455/mgtv/625703337.m3u8
-#EXTINF:-1 group-title="mgtv--列表",深度对话
+#EXTINF:-1 group-title="咪咕直播",深度对话
 http://yemingjkl.x3322.net:35455/mgtv/625703337.m3u8
-#EXTINF:-1 group-title="mgtv--列表",新动力量创一流
+#EXTINF:-1 group-title="咪咕直播",新动力量创一流
 http://227w9f5104.zicp.fun:35455/mgtv/713589837.m3u8
-#EXTINF:-1 group-title="mgtv--列表",新动力量创一流
+#EXTINF:-1 group-title="咪咕直播",新动力量创一流
 http://alist.xicp.fun:35455/mgtv/713589837.m3u8
-#EXTINF:-1 group-title="mgtv--列表",新动力量创一流
+#EXTINF:-1 group-title="咪咕直播",新动力量创一流
 http://guyue0227.eicp.net:35455/mgtv/713589837.m3u8
-#EXTINF:-1 group-title="mgtv--列表",新动力量创一流
+#EXTINF:-1 group-title="咪咕直播",新动力量创一流
 http://i.880824.xyz:35455/mgtv/713589837.m3u8
-#EXTINF:-1 group-title="mgtv--列表",新动力量创一流
+#EXTINF:-1 group-title="咪咕直播",新动力量创一流
 http://jilin-02.tosunsoft.com:35455/mgtv/713589837.m3u8
-#EXTINF:-1 group-title="mgtv--列表",新动力量创一流
+#EXTINF:-1 group-title="咪咕直播",新动力量创一流
 http://kakaphone.pgrm.cc:9257/mgtv/713589837.m3u8
-#EXTINF:-1 group-title="mgtv--列表",新动力量创一流
+#EXTINF:-1 group-title="咪咕直播",新动力量创一流
 http://ychz.myds.me:35455/mgtv/713589837.m3u8
-#EXTINF:-1 group-title="mgtv--列表",新动力量创一流
+#EXTINF:-1 group-title="咪咕直播",新动力量创一流
 http://yemingjkl.x3322.net:35455/mgtv/713589837.m3u8
-#EXTINF:-1 group-title="mgtv--列表",老故事
+#EXTINF:-1 group-title="咪咕直播",老故事
 http://227w9f5104.zicp.fun:35455/mgtv/884121956.m3u8
-#EXTINF:-1 group-title="mgtv--列表",老故事
+#EXTINF:-1 group-title="咪咕直播",老故事
 http://alist.xicp.fun:35455/mgtv/884121956.m3u8
-#EXTINF:-1 group-title="mgtv--列表",老故事
+#EXTINF:-1 group-title="咪咕直播",老故事
 http://guyue0227.eicp.net:35455/mgtv/884121956.m3u8
-#EXTINF:-1 group-title="mgtv--列表",老故事
+#EXTINF:-1 group-title="咪咕直播",老故事
 http://i.880824.xyz:35455/mgtv/884121956.m3u8
-#EXTINF:-1 group-title="mgtv--列表",老故事
+#EXTINF:-1 group-title="咪咕直播",老故事
 http://jilin-02.tosunsoft.com:35455/mgtv/884121956.m3u8
-#EXTINF:-1 group-title="mgtv--列表",老故事
+#EXTINF:-1 group-title="咪咕直播",老故事
 http://ychz.myds.me:35455/mgtv/884121956.m3u8
-#EXTINF:-1 group-title="mgtv--列表",老故事
+#EXTINF:-1 group-title="咪咕直播",老故事
 http://yemingjkl.x3322.net:35455/mgtv/884121956.m3u8
-#EXTINF:-1 group-title="mgtv--列表",发现之旅
+#EXTINF:-1 group-title="咪咕直播",发现之旅
 http://227w9f5104.zicp.fun:35455/mgtv/624878970.m3u8
-#EXTINF:-1 group-title="mgtv--列表",发现之旅
+#EXTINF:-1 group-title="咪咕直播",发现之旅
 http://alist.xicp.fun:35455/mgtv/624878970.m3u8
-#EXTINF:-1 group-title="mgtv--列表",发现之旅
+#EXTINF:-1 group-title="咪咕直播",发现之旅
 http://guyue0227.eicp.net:35455/mgtv/624878970.m3u8
-#EXTINF:-1 group-title="mgtv--列表",发现之旅
+#EXTINF:-1 group-title="咪咕直播",发现之旅
 http://i.880824.xyz:35455/mgtv/624878970.m3u8
-#EXTINF:-1 group-title="mgtv--列表",发现之旅
+#EXTINF:-1 group-title="咪咕直播",发现之旅
 http://jilin-02.tosunsoft.com:35455/mgtv/624878970.m3u8
-#EXTINF:-1 group-title="mgtv--列表",发现之旅
+#EXTINF:-1 group-title="咪咕直播",发现之旅
 http://kakaphone.pgrm.cc:9257/mgtv/624878970.m3u8
-#EXTINF:-1 group-title="mgtv--列表",发现之旅
+#EXTINF:-1 group-title="咪咕直播",发现之旅
 http://ychz.myds.me:35455/mgtv/624878970.m3u8
-#EXTINF:-1 group-title="mgtv--列表",发现之旅
+#EXTINF:-1 group-title="咪咕直播",发现之旅
 http://yemingjkl.x3322.net:35455/mgtv/624878970.m3u8
-#EXTINF:-1 group-title="mgtv--列表",中学生
+#EXTINF:-1 group-title="咪咕直播",中学生
 http://227w9f5104.zicp.fun:35455/mgtv/708869532.m3u8
-#EXTINF:-1 group-title="mgtv--列表",中学生
+#EXTINF:-1 group-title="咪咕直播",中学生
 http://alist.xicp.fun:35455/mgtv/708869532.m3u8
-#EXTINF:-1 group-title="mgtv--列表",中学生
+#EXTINF:-1 group-title="咪咕直播",中学生
 http://guyue0227.eicp.net:35455/mgtv/708869532.m3u8
-#EXTINF:-1 group-title="mgtv--列表",中学生
+#EXTINF:-1 group-title="咪咕直播",中学生
 http://i.880824.xyz:35455/mgtv/708869532.m3u8
-#EXTINF:-1 group-title="mgtv--列表",中学生
+#EXTINF:-1 group-title="咪咕直播",中学生
 http://jilin-02.tosunsoft.com:35455/mgtv/708869532.m3u8
-#EXTINF:-1 group-title="mgtv--列表",中学生
+#EXTINF:-1 group-title="咪咕直播",中学生
 http://kakaphone.pgrm.cc:9257/mgtv/708869532.m3u8
-#EXTINF:-1 group-title="mgtv--列表",中学生
+#EXTINF:-1 group-title="咪咕直播",中学生
 http://ychz.myds.me:35455/mgtv/708869532.m3u8
-#EXTINF:-1 group-title="mgtv--列表",中学生
+#EXTINF:-1 group-title="咪咕直播",中学生
 http://yemingjkl.x3322.net:35455/mgtv/708869532.m3u8
-#EXTINF:-1 group-title="mgtv--列表",咪咕24小时体育台
+#EXTINF:-1 group-title="咪咕直播",咪咕24小时体育台
 http://227w9f5104.zicp.fun:35455/mgtv/654102378.m3u8
-#EXTINF:-1 group-title="mgtv--列表",咪咕24小时体育台
+#EXTINF:-1 group-title="咪咕直播",咪咕24小时体育台
 http://alist.xicp.fun:35455/mgtv/654102378.m3u8
-#EXTINF:-1 group-title="mgtv--列表",咪咕24小时体育台
+#EXTINF:-1 group-title="咪咕直播",咪咕24小时体育台
 http://guyue0227.eicp.net:35455/mgtv/654102378.m3u8
-#EXTINF:-1 group-title="mgtv--列表",咪咕24小时体育台
+#EXTINF:-1 group-title="咪咕直播",咪咕24小时体育台
 http://i.880824.xyz:35455/mgtv/654102378.m3u8
-#EXTINF:-1 group-title="mgtv--列表",咪咕24小时体育台
+#EXTINF:-1 group-title="咪咕直播",咪咕24小时体育台
 http://jilin-02.tosunsoft.com:35455/mgtv/654102378.m3u8
-#EXTINF:-1 group-title="mgtv--列表",咪咕24小时体育台
+#EXTINF:-1 group-title="咪咕直播",咪咕24小时体育台
 http://kakaphone.pgrm.cc:9257/mgtv/654102378.m3u8
-#EXTINF:-1 group-title="mgtv--列表",咪咕24小时体育台
+#EXTINF:-1 group-title="咪咕直播",咪咕24小时体育台
 http://ychz.myds.me:35455/mgtv/654102378.m3u8
-#EXTINF:-1 group-title="mgtv--列表",咪咕24小时体育台
+#EXTINF:-1 group-title="咪咕直播",咪咕24小时体育台
 http://yemingjkl.x3322.net:35455/mgtv/654102378.m3u8
-#EXTINF:-1 group-title="mgtv--列表",赛事最经典
+#EXTINF:-1 group-title="咪咕直播",赛事最经典
 http://227w9f5104.zicp.fun:35455/mgtv/646596895.m3u8
-#EXTINF:-1 group-title="mgtv--列表",赛事最经典
+#EXTINF:-1 group-title="咪咕直播",赛事最经典
 http://alist.xicp.fun:35455/mgtv/646596895.m3u8
-#EXTINF:-1 group-title="mgtv--列表",赛事最经典
+#EXTINF:-1 group-title="咪咕直播",赛事最经典
 http://guyue0227.eicp.net:35455/mgtv/646596895.m3u8
-#EXTINF:-1 group-title="mgtv--列表",赛事最经典
+#EXTINF:-1 group-title="咪咕直播",赛事最经典
 http://i.880824.xyz:35455/mgtv/646596895.m3u8
-#EXTINF:-1 group-title="mgtv--列表",赛事最经典
+#EXTINF:-1 group-title="咪咕直播",赛事最经典
 http://jilin-02.tosunsoft.com:35455/mgtv/646596895.m3u8
-#EXTINF:-1 group-title="mgtv--列表",赛事最经典
+#EXTINF:-1 group-title="咪咕直播",赛事最经典
 http://kakaphone.pgrm.cc:9257/mgtv/646596895.m3u8
-#EXTINF:-1 group-title="mgtv--列表",赛事最经典
+#EXTINF:-1 group-title="咪咕直播",赛事最经典
 http://ychz.myds.me:35455/mgtv/646596895.m3u8
-#EXTINF:-1 group-title="mgtv--列表",赛事最经典
+#EXTINF:-1 group-title="咪咕直播",赛事最经典
 http://yemingjkl.x3322.net:35455/mgtv/646596895.m3u8
-#EXTINF:-1 group-title="mgtv--列表",体坛名栏汇
+#EXTINF:-1 group-title="咪咕直播",体坛名栏汇
 http://227w9f5104.zicp.fun:35455/mgtv/629943305.m3u8
-#EXTINF:-1 group-title="mgtv--列表",体坛名栏汇
+#EXTINF:-1 group-title="咪咕直播",体坛名栏汇
 http://alist.xicp.fun:35455/mgtv/629943305.m3u8
-#EXTINF:-1 group-title="mgtv--列表",体坛名栏汇
+#EXTINF:-1 group-title="咪咕直播",体坛名栏汇
 http://guyue0227.eicp.net:35455/mgtv/629943305.m3u8
-#EXTINF:-1 group-title="mgtv--列表",体坛名栏汇
+#EXTINF:-1 group-title="咪咕直播",体坛名栏汇
 http://i.880824.xyz:35455/mgtv/629943305.m3u8
-#EXTINF:-1 group-title="mgtv--列表",体坛名栏汇
+#EXTINF:-1 group-title="咪咕直播",体坛名栏汇
 http://jilin-02.tosunsoft.com:35455/mgtv/629943305.m3u8
-#EXTINF:-1 group-title="mgtv--列表",体坛名栏汇
+#EXTINF:-1 group-title="咪咕直播",体坛名栏汇
 http://kakaphone.pgrm.cc:9257/mgtv/629943305.m3u8
-#EXTINF:-1 group-title="mgtv--列表",体坛名栏汇
+#EXTINF:-1 group-title="咪咕直播",体坛名栏汇
 http://ychz.myds.me:35455/mgtv/629943305.m3u8
-#EXTINF:-1 group-title="mgtv--列表",体坛名栏汇
+#EXTINF:-1 group-title="咪咕直播",体坛名栏汇
 http://yemingjkl.x3322.net:35455/mgtv/629943305.m3u8
-#EXTINF:-1 group-title="mgtv--列表",体育休闲频道
+#EXTINF:-1 group-title="咪咕直播",体育休闲频道
 http://227w9f5104.zicp.fun:35455/mgtv/626064707.m3u8
-#EXTINF:-1 group-title="mgtv--列表",体育休闲频道
+#EXTINF:-1 group-title="咪咕直播",体育休闲频道
 http://alist.xicp.fun:35455/mgtv/626064707.m3u8
-#EXTINF:-1 group-title="mgtv--列表",体育休闲频道
+#EXTINF:-1 group-title="咪咕直播",体育休闲频道
 http://guyue0227.eicp.net:35455/mgtv/626064707.m3u8
-#EXTINF:-1 group-title="mgtv--列表",体育休闲频道
+#EXTINF:-1 group-title="咪咕直播",体育休闲频道
 http://i.880824.xyz:35455/mgtv/626064707.m3u8
-#EXTINF:-1 group-title="mgtv--列表",体育休闲频道
+#EXTINF:-1 group-title="咪咕直播",体育休闲频道
 http://jilin-02.tosunsoft.com:35455/mgtv/626064707.m3u8
-#EXTINF:-1 group-title="mgtv--列表",体育休闲频道
+#EXTINF:-1 group-title="咪咕直播",体育休闲频道
 http://kakaphone.pgrm.cc:9257/mgtv/626064707.m3u8
-#EXTINF:-1 group-title="mgtv--列表",体育休闲频道
+#EXTINF:-1 group-title="咪咕直播",体育休闲频道
 http://ychz.myds.me:35455/mgtv/626064707.m3u8
-#EXTINF:-1 group-title="mgtv--列表",五环传奇
+#EXTINF:-1 group-title="咪咕直播",五环传奇
 http://227w9f5104.zicp.fun:35455/mgtv/707671890.m3u8
-#EXTINF:-1 group-title="mgtv--列表",五环传奇
+#EXTINF:-1 group-title="咪咕直播",五环传奇
 http://alist.xicp.fun:35455/mgtv/707671890.m3u8
-#EXTINF:-1 group-title="mgtv--列表",五环传奇
+#EXTINF:-1 group-title="咪咕直播",五环传奇
 http://guyue0227.eicp.net:35455/mgtv/707671890.m3u8
-#EXTINF:-1 group-title="mgtv--列表",五环传奇
+#EXTINF:-1 group-title="咪咕直播",五环传奇
 http://i.880824.xyz:35455/mgtv/707671890.m3u8
-#EXTINF:-1 group-title="mgtv--列表",五环传奇
+#EXTINF:-1 group-title="咪咕直播",五环传奇
 http://jilin-02.tosunsoft.com:35455/mgtv/707671890.m3u8
-#EXTINF:-1 group-title="mgtv--列表",五环传奇
+#EXTINF:-1 group-title="咪咕直播",五环传奇
 http://kakaphone.pgrm.cc:9257/mgtv/707671890.m3u8
-#EXTINF:-1 group-title="mgtv--列表",五环传奇
+#EXTINF:-1 group-title="咪咕直播",五环传奇
 http://ychz.myds.me:35455/mgtv/707671890.m3u8
-#EXTINF:-1 group-title="mgtv--列表",五环传奇
+#EXTINF:-1 group-title="咪咕直播",五环传奇
 http://yemingjkl.x3322.net:35455/mgtv/707671890.m3u8
-#EXTINF:-1 group-title="mgtv--列表",掼蛋精英赛
+#EXTINF:-1 group-title="咪咕直播",掼蛋精英赛
 http://227w9f5104.zicp.fun:35455/mgtv/631354620.m3u8
-#EXTINF:-1 group-title="mgtv--列表",掼蛋精英赛
+#EXTINF:-1 group-title="咪咕直播",掼蛋精英赛
 http://alist.xicp.fun:35455/mgtv/631354620.m3u8
-#EXTINF:-1 group-title="mgtv--列表",掼蛋精英赛
+#EXTINF:-1 group-title="咪咕直播",掼蛋精英赛
 http://guyue0227.eicp.net:35455/mgtv/631354620.m3u8
-#EXTINF:-1 group-title="mgtv--列表",掼蛋精英赛
+#EXTINF:-1 group-title="咪咕直播",掼蛋精英赛
 http://i.880824.xyz:35455/mgtv/631354620.m3u8
-#EXTINF:-1 group-title="mgtv--列表",掼蛋精英赛
+#EXTINF:-1 group-title="咪咕直播",掼蛋精英赛
 http://jilin-02.tosunsoft.com:35455/mgtv/631354620.m3u8
-#EXTINF:-1 group-title="mgtv--列表",掼蛋精英赛
+#EXTINF:-1 group-title="咪咕直播",掼蛋精英赛
 http://kakaphone.pgrm.cc:9257/mgtv/631354620.m3u8
-#EXTINF:-1 group-title="mgtv--列表",掼蛋精英赛
+#EXTINF:-1 group-title="咪咕直播",掼蛋精英赛
 http://ychz.myds.me:35455/mgtv/631354620.m3u8
-#EXTINF:-1 group-title="mgtv--列表",掼蛋精英赛
+#EXTINF:-1 group-title="咪咕直播",掼蛋精英赛
 http://yemingjkl.x3322.net:35455/mgtv/631354620.m3u8
-#EXTINF:-1 group-title="mgtv--列表",湖南经视
+#EXTINF:-1 group-title="咪咕直播",湖南经视
 http://tvbox6.icu/tv/mgtv.php?id=280
-#EXTINF:-1 group-title="mgtv--列表",茶频道
+#EXTINF:-1 group-title="咪咕直播",茶频道
 http://tvbox6.icu/tv/mgtv.php?id=578
-#EXTINF:-1 group-title="mgtv--列表",金鹰纪实
+#EXTINF:-1 group-title="咪咕直播",金鹰纪实
 http://tvbox6.icu/tv/mgtv.php?id=316
-#EXTINF:-1 group-title="mgtv--列表",金鹰卡通
+#EXTINF:-1 group-title="咪咕直播",金鹰卡通
 http://tvbox6.icu/tv/mgtv.php?id=287
-#EXTINF:-1 group-title="mgtv--列表",快乐垂钓
+#EXTINF:-1 group-title="咪咕直播",快乐垂钓
 http://tvbox6.icu/tv/mgtv.php?id=218
-#EXTINF:-1 group-title="mgtv--列表",先锋乒羽
+#EXTINF:-1 group-title="咪咕直播",先锋乒羽
 http://tvbox6.icu/tv/mgtv.php?id=329
-#EXTINF:-1 group-title="mgtv--列表",长沙新闻
+#EXTINF:-1 group-title="咪咕直播",长沙新闻
 http://tvbox6.icu/tv/mgtv.php?id=269
-#EXTINF:-1 group-title="mgtv--列表",长沙政法
+#EXTINF:-1 group-title="咪咕直播",长沙政法
 http://tvbox6.icu/tv/mgtv.php?id=254
-#EXTINF:-1 group-title="mgtv--列表",长沙女性
+#EXTINF:-1 group-title="咪咕直播",长沙女性
 http://tvbox6.icu/tv/mgtv.php?id=230
 
