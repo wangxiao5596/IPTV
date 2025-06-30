@@ -1,0 +1,626 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="三网源",CCTV1
+http://qwt.zhibotv.top:2016/%E5%85%A8%E7%BD%91%E9%80%9A.php?id=CCTV1
+#EXTINF:-1 group-title="三网源",CCTV2
+http://qwt.zhibotv.top:2016/%E5%85%A8%E7%BD%91%E9%80%9A.php?id=CCTV2
+#EXTINF:-1 group-title="三网源",CCTV3
+http://qwt.zhibotv.top:2016/%E5%85%A8%E7%BD%91%E9%80%9A.php?id=CCTV3
+#EXTINF:-1 group-title="三网源",CCTV4
+http://qwt.zhibotv.top:2016/%E5%85%A8%E7%BD%91%E9%80%9A.php?id=CCTV4
+#EXTINF:-1 group-title="三网源",CCTV5
+http://qwt.zhibotv.top:2016/%E5%85%A8%E7%BD%91%E9%80%9A.php?id=CCTV5
+#EXTINF:-1 group-title="三网源",CCTV5+
+http://qwt.zhibotv.top:2016/%E5%85%A8%E7%BD%91%E9%80%9A.php?id=CCTV5p
+#EXTINF:-1 group-title="三网源",CCTV6
+http://qwt.zhibotv.top:2016/%E5%85%A8%E7%BD%91%E9%80%9A.php?id=CCTV6
+#EXTINF:-1 group-title="三网源",CCTV7
+http://qwt.zhibotv.top:2016/%E5%85%A8%E7%BD%91%E9%80%9A.php?id=CCTV7
+#EXTINF:-1 group-title="三网源",CCTV8
+http://qwt.zhibotv.top:2016/%E5%85%A8%E7%BD%91%E9%80%9A.php?id=CCTV8
+#EXTINF:-1 group-title="三网源",CCTV9
+http://qwt.zhibotv.top:2016/%E5%85%A8%E7%BD%91%E9%80%9A.php?id=CCTV9
+#EXTINF:-1 group-title="三网源",CCTV10
+http://qwt.zhibotv.top:2016/%E5%85%A8%E7%BD%91%E9%80%9A.php?id=CCTV10
+#EXTINF:-1 group-title="三网源",CCTV11
+http://qwt.zhibotv.top:2016/%E5%85%A8%E7%BD%91%E9%80%9A.php?id=CCTV11
+#EXTINF:-1 group-title="三网源",CCTV12
+http://qwt.zhibotv.top:2016/%E5%85%A8%E7%BD%91%E9%80%9A.php?id=CCTV12
+#EXTINF:-1 group-title="三网源",CCTV13
+http://qwt.zhibotv.top:2016/%E5%85%A8%E7%BD%91%E9%80%9A.php?id=CCTV13
+#EXTINF:-1 group-title="三网源",CCTV14
+http://qwt.zhibotv.top:2016/%E5%85%A8%E7%BD%91%E9%80%9A.php?id=CCTV14
+#EXTINF:-1 group-title="三网源",CCTV15
+http://qwt.zhibotv.top:2016/%E5%85%A8%E7%BD%91%E9%80%9A.php?id=CCTV15
+#EXTINF:-1 group-title="三网源",CCTV16
+http://qwt.zhibotv.top:2016/%E5%85%A8%E7%BD%91%E9%80%9A.php?id=CCTV16
+#EXTINF:-1 group-title="三网源",CCTV17
+http://qwt.zhibotv.top:2016/%E5%85%A8%E7%BD%91%E9%80%9A.php?id=CCTV17
+#EXTINF:-1 group-title="三网源",北京卫视
+http://qwt.zhibotv.top:2016/%E5%85%A8%E7%BD%91%E9%80%9A.php?id=%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86
+#EXTINF:-1 group-title="三网源",湖南卫视
+http://qwt.zhibotv.top:2016/%E5%85%A8%E7%BD%91%E9%80%9A.php?id=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86
+#EXTINF:-1 group-title="三网源",浙江卫视
+http://qwt.zhibotv.top:2016/%E5%85%A8%E7%BD%91%E9%80%9A.php?id=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86
+#EXTINF:-1 group-title="三网源",广东卫视
+http://qwt.zhibotv.top:2016/%E5%85%A8%E7%BD%91%E9%80%9A.php?id=%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86
+#EXTINF:-1 group-title="三网源",山东卫视
+http://qwt.zhibotv.top:2016/%E5%85%A8%E7%BD%91%E9%80%9A.php?id=%E5%B1%B1%E4%B8%9C%E5%8D%AB%E8%A7%86
+#EXTINF:-1 group-title="三网源",江苏卫视
+http://qwt.zhibotv.top:2016/%E5%85%A8%E7%BD%91%E9%80%9A.php?id=%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86
+#EXTINF:-1 group-title="三网源",安徽卫视
+http://qwt.zhibotv.top:2016/%E5%85%A8%E7%BD%91%E9%80%9A.php?id=%E5%AE%89%E5%BE%BD%E5%8D%AB%E8%A7%86
+#EXTINF:-1 group-title="三网源",辽宁卫视
+http://qwt.zhibotv.top:2016/%E5%85%A8%E7%BD%91%E9%80%9A.php?id=%E8%BE%BD%E5%AE%81%E5%8D%AB%E8%A7%86
+#EXTINF:-1 group-title="三网源",东方卫视
+http://qwt.zhibotv.top:2016/%E5%85%A8%E7%BD%91%E9%80%9A.php?id=%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%86
+#EXTINF:-1 group-title="三网源",东南卫视
+http://qwt.zhibotv.top:2016/%E5%85%A8%E7%BD%91%E9%80%9A.php?id=%E4%B8%9C%E5%8D%97%E5%8D%AB%E8%A7%86
+#EXTINF:-1 group-title="三网源",湖北卫视
+http://qwt.zhibotv.top:2016/%E5%85%A8%E7%BD%91%E9%80%9A.php?id=%E6%B9%96%E5%8C%97%E5%8D%AB%E8%A7%86
+#EXTINF:-1 group-title="三网源",天津卫视
+http://qwt.zhibotv.top:2016/%E5%85%A8%E7%BD%91%E9%80%9A.php?id=%E5%A4%A9%E6%B4%A5%E5%8D%AB%E8%A7%86
+#EXTINF:-1 group-title="三网源",吉林卫视
+http://qwt.zhibotv.top:2016/%E5%85%A8%E7%BD%91%E9%80%9A.php?id=%E5%90%89%E6%9E%97%E5%8D%AB%E8%A7%86
+#EXTINF:-1 group-title="三网源",深圳卫视
+http://qwt.zhibotv.top:2016/%E5%85%A8%E7%BD%91%E9%80%9A.php?id=%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%86
+#EXTINF:-1 group-title="三网源",江西卫视
+http://qwt.zhibotv.top:2016/%E5%85%A8%E7%BD%91%E9%80%9A.php?id=%E6%B1%9F%E8%A5%BF%E5%8D%AB%E8%A7%86
+#EXTINF:-1 group-title="三网源",黑龙江卫视
+http://qwt.zhibotv.top:2016/%E5%85%A8%E7%BD%91%E9%80%9A.php?id=%E9%BB%91%E9%BE%99%E6%B1%9F%E5%8D%AB%E8%A7%86
+#EXTINF:-1 group-title="三网源",四川卫视
+http://qwt.zhibotv.top:2016/%E5%85%A8%E7%BD%91%E9%80%9A.php?id=%E5%9B%9B%E5%B7%9D%E5%8D%AB%E8%A7%86
+#EXTINF:-1 group-title="三网源",贵州卫视
+http://qwt.zhibotv.top:2016/%E5%85%A8%E7%BD%91%E9%80%9A.php?id=%E8%B4%B5%E5%B7%9E%E5%8D%AB%E8%A7%86
+#EXTINF:-1 group-title="三网源",广西卫视
+http://qwt.zhibotv.top:2016/%E5%85%A8%E7%BD%91%E9%80%9A.php?id=%E5%B9%BF%E8%A5%BF%E5%8D%AB%E8%A7%86
+#EXTINF:-1 group-title="三网源",重庆卫视
+http://qwt.zhibotv.top:2016/%E5%85%A8%E7%BD%91%E9%80%9A.php?id=%E9%87%8D%E5%BA%86%E5%8D%AB%E8%A7%86
+#EXTINF:-1 group-title="三网源",云南卫视
+http://qwt.zhibotv.top:2016/%E5%85%A8%E7%BD%91%E9%80%9A.php?id=%E4%BA%91%E5%8D%97%E5%8D%AB%E8%A7%86
+#EXTINF:-1 group-title="三网源",青海卫视
+http://qwt.zhibotv.top:2016/%E5%85%A8%E7%BD%91%E9%80%9A.php?id=%E9%9D%92%E6%B5%B7%E5%8D%AB%E8%A7%86
+#EXTINF:-1 group-title="三网源",海南卫视
+http://qwt.zhibotv.top:2016/%E5%85%A8%E7%BD%91%E9%80%9A.php?id=%E6%B5%B7%E5%8D%97%E5%8D%AB%E8%A7%86
+#EXTINF:-1 group-title="三网源",河南卫视
+http://qwt.zhibotv.top:2016/%E5%85%A8%E7%BD%91%E9%80%9A.php?id=%E6%B2%B3%E5%8D%97%E5%8D%AB%E8%A7%86
+#EXTINF:-1 group-title="三网源",河北卫视
+http://qwt.zhibotv.top:2016/%E5%85%A8%E7%BD%91%E9%80%9A.php?id=%E6%B2%B3%E5%8C%97%E5%8D%AB%E8%A7%86
+#EXTINF:-1 group-title="三网源",陕西卫视
+http://qwt.zhibotv.top:2016/%E5%85%A8%E7%BD%91%E9%80%9A.php?id=%E9%99%95%E8%A5%BF%E5%8D%AB%E8%A7%86
+#EXTINF:-1 group-title="三网源",山西卫视
+http://qwt.zhibotv.top:2016/%E5%85%A8%E7%BD%91%E9%80%9A.php?id=%E5%B1%B1%E8%A5%BF%E5%8D%AB%E8%A7%86
+#EXTINF:-1 group-title="三网源",甘肃卫视
+http://qwt.zhibotv.top:2016/%E5%85%A8%E7%BD%91%E9%80%9A.php?id=%E7%94%98%E8%82%83%E5%8D%AB%E8%A7%86
+#EXTINF:-1 group-title="三网源",宁夏卫视
+http://qwt.zhibotv.top:2016/%E5%85%A8%E7%BD%91%E9%80%9A.php?id=%E5%AE%81%E5%A4%8F%E5%8D%AB%E8%A7%86
+#EXTINF:-1 group-title="三网源",内蒙古卫视
+http://qwt.zhibotv.top:2016/%E5%85%A8%E7%BD%91%E9%80%9A.php?id=%E5%86%85%E8%92%99%E5%8F%A4%E5%8D%AB%E8%A7%86
+#EXTINF:-1 group-title="三网源",凤凰中文
+http://qwt.zhibotv.top:2016/%E5%85%A8%E7%BD%91%E9%80%9A.php?id=%E6%97%A0%E7%BA%BF%E6%96%B0%E9%97%BB%E5%8F%B0
+#EXTINF:-1 group-title="三网源",凤凰香港
+http://qwt.zhibotv.top:2016/%E5%85%A8%E7%BD%91%E9%80%9A.php?id=%E5%87%A4%E5%87%B0%E4%B8%AD%E6%96%87%E5%8F%B0
+#EXTINF:-1 group-title="三网源",无线新闻台
+http://qwt.zhibotv.top:2016/%E5%85%A8%E7%BD%91%E9%80%9A.php?id=%E5%87%A4%E5%87%B0%E9%A6%99%E6%B8%AF%E5%8F%B0
+#EXTINF:-1 group-title="三网源",翡翠台
+http://qwt.zhibotv.top:2016/%E5%85%A8%E7%BD%91%E9%80%9A.php?id=%E7%BF%A1%E7%BF%A0%E5%8F%B0
+#EXTINF:-1 group-title="三网源",CHC动作电影
+http://qwt.zhibotv.top:2016/%E5%85%A8%E7%BD%91%E9%80%9A.php?id=CHC%E5%8A%A8%E4%BD%9C%E7%94%B5%E5%BD%B1
+#EXTINF:-1 group-title="三网源",CHC家庭影院
+http://qwt.zhibotv.top:2016/%E5%85%A8%E7%BD%91%E9%80%9A.php?id=CHC%E5%AE%B6%E5%BA%AD%E5%BD%B1%E9%99%A2
+#EXTINF:-1 group-title="三网源",CHC影迷电影
+http://qwt.zhibotv.top:2016/%E5%85%A8%E7%BD%91%E9%80%9A.php?id=CHC%E5%BD%B1%E8%BF%B7%E7%94%B5%E5%BD%B1
+
+#EXTINF:-1 group-title="移动源",CCTV1
+http://183.221.193.148:4022/rtp/239.11.0.65:5140
+#EXTINF:-1 group-title="移动源",CCTV2
+http://183.221.193.148:4022/rtp/239.11.0.108:5140
+#EXTINF:-1 group-title="移动源",CCTV3
+http://183.221.193.148:4022/rtp/239.11.0.101:5140
+#EXTINF:-1 group-title="移动源",CCTV4
+http://183.221.193.148:4022/rtp/239.11.0.109:5140
+#EXTINF:-1 group-title="移动源",CCTV5
+http://183.221.193.148:4022/rtp/239.11.0.100:5140
+#EXTINF:-1 group-title="移动源",CCTV6
+http://183.221.193.148:4022/rtp/239.11.0.102:5140
+#EXTINF:-1 group-title="移动源",CCTV7
+http://183.221.193.148:4022/rtp/239.11.0.110:5140
+#EXTINF:-1 group-title="移动源",CCTV8
+http://183.221.193.148:4022/rtp/239.11.0.103:5140
+#EXTINF:-1 group-title="移动源",CCTV9
+http://183.221.193.148:4022/rtp/239.11.0.111:5140
+#EXTINF:-1 group-title="移动源",CCTV10
+http://183.221.193.148:4022/rtp/239.11.0.112:5140
+#EXTINF:-1 group-title="移动源",CCTV11
+http://183.221.193.148:4022/rtp/239.11.0.22:5140
+#EXTINF:-1 group-title="移动源",CCTV12
+http://183.221.193.148:4022/rtp/239.11.0.113:5140
+#EXTINF:-1 group-title="移动源",CCTV13
+http://183.221.193.148:4022/rtp/239.11.0.24:5140
+#EXTINF:-1 group-title="移动源",CCTV14
+http://183.221.193.148:4022/rtp/239.11.0.114:5140
+#EXTINF:-1 group-title="移动源",CCTV15
+http://183.221.193.148:4022/rtp/239.11.0.26:5140
+#EXTINF:-1 group-title="移动源",CCTV17
+http://183.221.193.148:4022/rtp/239.11.0.107:5140
+#EXTINF:-1 group-title="移动源",CGTN
+http://183.221.193.148:4022/rtp/239.11.0.138:5140
+#EXTINF:-1 group-title="移动源",湖南卫视
+http://183.221.193.148:4022/rtp/239.11.0.119:5140
+#EXTINF:-1 group-title="移动源",浙江卫视
+http://183.221.193.148:4022/rtp/239.11.0.70:5140
+#EXTINF:-1 group-title="移动源",江苏卫视
+http://183.221.193.148:4022/rtp/239.11.0.76:5140
+#EXTINF:-1 group-title="移动源",北京卫视
+http://183.221.193.148:4022/rtp/239.11.0.121:5140
+#EXTINF:-1 group-title="移动源",江西卫视
+http://183.221.193.148:4022/rtp/239.11.0.42:5140
+#EXTINF:-1 group-title="移动源",广东卫视
+http://183.221.193.148:4022/rtp/239.11.0.115:5140
+#EXTINF:-1 group-title="移动源",深圳卫视
+http://183.221.193.148:4022/rtp/239.11.0.71:5140
+#EXTINF:-1 group-title="移动源",东方卫视
+http://183.221.193.148:4022/rtp/239.11.0.68:5140
+#EXTINF:-1 group-title="移动源",海南卫视
+http://183.221.193.148:4022/rtp/239.11.0.193:5140
+#EXTINF:-1 group-title="移动源",天津卫视
+http://183.221.193.148:4022/rtp/239.11.0.123:5140
+#EXTINF:-1 group-title="移动源",重庆卫视
+http://183.221.193.148:4022/rtp/239.11.0.116:5140
+#EXTINF:-1 group-title="移动源",辽宁卫视
+http://183.221.193.148:4022/rtp/239.11.0.118:5140
+#EXTINF:-1 group-title="移动源",东南卫视
+http://183.221.193.148:4022/rtp/239.11.0.41:5140
+#EXTINF:-1 group-title="移动源",广西卫视
+http://183.221.193.148:4022/rtp/239.11.0.48:5140
+#EXTINF:-1 group-title="移动源",河北卫视
+http://183.221.193.148:4022/rtp/239.11.0.31:5140
+#EXTINF:-1 group-title="移动源",山西卫视
+http://183.221.193.148:4022/rtp/239.11.0.32:5140
+#EXTINF:-1 group-title="移动源",陕西卫视
+http://183.221.193.148:4022/rtp/239.11.0.54:5140
+#EXTINF:-1 group-title="移动源",贵州卫视
+http://183.221.193.148:4022/rtp/239.11.0.51:5140
+#EXTINF:-1 group-title="移动源",湖北卫视
+http://183.221.193.148:4022/rtp/239.11.0.74:5140
+#EXTINF:-1 group-title="移动源",青海卫视
+http://183.221.193.148:4022/rtp/239.11.0.56:5140
+#EXTINF:-1 group-title="移动源",河南卫视
+http://183.221.193.148:4022/rtp/239.11.0.44:5140
+#EXTINF:-1 group-title="移动源",山东卫视
+http://183.221.193.148:4022/rtp/239.11.0.73:5140
+#EXTINF:-1 group-title="移动源",安徽卫视
+http://183.221.193.148:4022/rtp/239.11.0.117:5140
+#EXTINF:-1 group-title="移动源",宁夏卫视
+http://183.221.193.148:4022/rtp/239.11.0.57:5140
+#EXTINF:-1 group-title="移动源",甘肃卫视
+http://183.221.193.148:4022/rtp/239.11.0.55:5140
+#EXTINF:-1 group-title="移动源",西藏卫视
+http://183.221.193.148:4022/rtp/239.11.0.53:5140
+#EXTINF:-1 group-title="移动源",内蒙古卫视
+http://183.221.193.148:4022/rtp/239.11.0.33:5140
+#EXTINF:-1 group-title="移动源",吉林卫视
+http://183.221.193.148:4022/rtp/239.11.0.35:5140
+#EXTINF:-1 group-title="移动源",新疆卫视
+http://183.221.193.148:4022/rtp/239.11.0.58:5140
+#EXTINF:-1 group-title="移动源",兵团卫视
+http://183.221.193.148:4022/rtp/239.11.0.204:5140
+#EXTINF:-1 group-title="移动源",云南卫视
+http://183.221.193.148:4022/rtp/239.11.0.52:5140
+#EXTINF:-1 group-title="移动源",黑龙江卫视
+http://183.221.193.148:4022/rtp/239.11.0.36:5140
+#EXTINF:-1 group-title="移动源",金鹰卡通
+http://183.221.193.148:4022/rtp/239.11.0.127:5140
+#EXTINF:-1 group-title="移动源",卡酷少儿
+http://183.221.193.148:4022/rtp/239.11.0.129:5140
+#EXTINF:-1 group-title="移动源",嘉佳卡通
+http://183.221.193.148:4022/rtp/239.11.0.203:5140
+#EXTINF:-1 group-title="移动源",优漫卡通
+http://183.221.193.148:4022/rtp/239.11.0.63:5140
+#EXTINF:-1 group-title="移动源",哈哈炫动
+http://183.221.193.148:4022/rtp/239.11.0.64:5140
+#EXTINF:-1 group-title="移动源",真4K
+http://183.221.193.148:4022/rtp/239.11.0.122:5140
+#EXTINF:-1 group-title="移动源",看电影
+http://183.221.193.148:4022/rtp/239.11.0.191:5140
+#EXTINF:-1 group-title="移动源",CETV1
+http://183.221.193.148:4022/rtp/239.11.0.139:5140
+#EXTINF:-1 group-title="移动源",CETV2
+http://183.221.193.148:4022/rtp/239.11.0.246:5140
+#EXTINF:-1 group-title="移动源",CETV3
+http://183.221.193.148:4022/rtp/239.11.0.247:5140
+#EXTINF:-1 group-title="移动源",CETV4
+http://183.221.193.148:4022/rtp/239.11.0.248:5140
+
+#EXTINF:-1 group-title="联通源",CCTV1
+http://221.213.93.224:85/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="联通源",CCTV2
+http://221.213.93.224:85/tsfile/live/0002_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="联通源",CCTV3
+http://221.213.93.224:85/tsfile/live/0003_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="联通源",CCTV4
+http://221.213.93.224:85/tsfile/live/0004_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="联通源",CCTV5
+http://221.213.93.224:85/tsfile/live/0005_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="联通源",CCTV6
+http://221.213.93.224:85/tsfile/live/0006_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="联通源",CCTV7
+http://221.213.93.224:85/tsfile/live/0007_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="联通源",CCTV8
+http://221.213.93.224:85/tsfile/live/0008_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="联通源",CCTV9
+http://221.213.93.224:85/tsfile/live/0009_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="联通源",CCTV10
+http://221.213.93.224:85/tsfile/live/0010_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="联通源",CCTV11
+http://221.213.93.224:85/tsfile/live/0011_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="联通源",CCTV12
+http://221.213.93.224:85/tsfile/live/0012_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="联通源",CCTV13
+http://221.213.93.224:85/tsfile/live/0013_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="联通源",CCTV14
+http://221.213.93.224:85/tsfile/live/0014_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="联通源",CCTV15
+http://221.213.93.224:85/tsfile/live/0015_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="联通源",云南卫视
+http://221.213.93.224:85/tsfile/live/0018_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="联通源",浙江卫视
+http://221.213.93.224:85/tsfile/live/0128_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="联通源",江苏卫视
+http://221.213.93.224:85/tsfile/live/0127_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="联通源",湖南卫视
+http://221.213.93.224:85/tsfile/live/0122_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="联通源",东方卫视
+http://221.213.93.224:85/tsfile/live/0107_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="联通源",北京卫视
+http://221.213.93.224:85/tsfile/live/0130_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="联通源",天津卫视
+http://221.213.93.224:85/tsfile/live/0122_2.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="联通源",安徽卫视
+http://221.213.93.224:85/tsfile/live/0135_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="联通源",深圳卫视
+http://221.213.93.224:85/tsfile/live/0126_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="联通源",重庆卫视
+http://221.213.93.224:85/tsfile/live/0138_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="联通源",山东卫视
+http://221.213.93.224:85/tsfile/live/0126_2.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="联通源",辽宁卫视
+http://221.213.93.224:85/tsfile/live/0142_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="联通源",湖北卫视
+http://221.213.93.224:85/tsfile/live/0121_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="联通源",四川卫视
+http://221.213.93.224:85/tsfile/live/0143_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="联通源",黑龙江卫视
+http://221.213.93.224:85/tsfile/live/0132_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="联通源",东南卫视
+http://221.213.93.224:85/tsfile/live/0123_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="联通源",贵州卫视
+http://221.213.93.224:85/tsfile/live/0139_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="联通源",广东卫视
+http://221.213.93.224:85/tsfile/live/0125_2.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="联通源",河南卫视
+http://221.213.93.224:85/tsfile/live/0120_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="联通源",吉林卫视
+http://221.213.93.224:85/tsfile/live/0125_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="联通源",山西卫视
+http://221.213.93.224:85/tsfile/live/0139_2.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="联通源",河北卫视
+http://221.213.93.224:85/tsfile/live/0116_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="联通源",广西卫视
+http://221.213.93.224:85/tsfile/live/0118_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="联通源",陕西卫视
+http://221.213.93.224:85/tsfile/live/0136_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="联通源",甘肃卫视
+http://221.213.93.224:85/tsfile/live/0109_2.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="联通源",青海卫视
+http://221.213.93.224:85/tsfile/live/0140_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="联通源",内蒙古卫视
+http://221.213.93.224:85/tsfile/live/0141_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="联通源",新疆卫视
+http://221.213.93.224:85/tsfile/live/0112_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="联通源",西藏卫视
+http://221.213.93.224:85/tsfile/live/0109_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="联通源",海南卫视
+http://221.213.93.224:85/tsfile/live/1003_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="联通源",厦门卫视
+http://221.213.93.224:85/tsfile/live/0115_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="联通源",金鹰卡通
+http://221.213.93.224:85/tsfile/live/1005_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="联通源",优漫卡通
+http://221.213.93.224:85/tsfile/live/1007_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="联通源",嘉佳卡通
+http://221.213.93.224:85/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="联通源",CCTV1
+http://221.213.95.4:85/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="联通源",CCTV2
+http://221.213.95.4:85/tsfile/live/0002_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="联通源",CCTV3
+http://221.213.95.4:85/tsfile/live/0003_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="联通源",CCTV4
+http://221.213.95.4:85/tsfile/live/0004_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="联通源",CCTV5
+http://221.213.95.4:85/tsfile/live/0005_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="联通源",CCTV6
+http://221.213.95.4:85/tsfile/live/0006_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="联通源",CCTV7
+http://221.213.95.4:85/tsfile/live/0007_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="联通源",CCTV8
+http://221.213.95.4:85/tsfile/live/0008_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="联通源",CCTV9
+http://221.213.95.4:85/tsfile/live/0009_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="联通源",CCTV10
+http://221.213.95.4:85/tsfile/live/0010_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="联通源",CCTV11
+http://221.213.95.4:85/tsfile/live/0011_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="联通源",CCTV12
+http://221.213.95.4:85/tsfile/live/0012_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="联通源",CCTV13
+http://221.213.95.4:85/tsfile/live/0013_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="联通源",CCTV14
+http://221.213.95.4:85/tsfile/live/0014_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="联通源",CCTV15
+http://221.213.95.4:85/tsfile/live/0015_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="联通源",云南卫视
+http://221.213.95.4:85/tsfile/live/0018_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="联通源",浙江卫视
+http://221.213.95.4:85/tsfile/live/0128_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="联通源",江苏卫视
+http://221.213.95.4:85/tsfile/live/0127_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="联通源",湖南卫视
+http://221.213.95.4:85/tsfile/live/0122_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="联通源",东方卫视
+http://221.213.95.4:85/tsfile/live/0107_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="联通源",北京卫视
+http://221.213.95.4:85/tsfile/live/0130_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="联通源",天津卫视
+http://221.213.95.4:85/tsfile/live/0122_2.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="联通源",安徽卫视
+http://221.213.95.4:85/tsfile/live/0135_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="联通源",深圳卫视
+http://221.213.95.4:85/tsfile/live/0126_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="联通源",重庆卫视
+http://221.213.95.4:85/tsfile/live/0138_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="联通源",山东卫视
+http://221.213.95.4:85/tsfile/live/0126_2.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="联通源",辽宁卫视
+http://221.213.95.4:85/tsfile/live/0142_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="联通源",湖北卫视
+http://221.213.95.4:85/tsfile/live/0121_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="联通源",四川卫视
+http://221.213.95.4:85/tsfile/live/0143_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="联通源",黑龙江卫视
+http://221.213.95.4:85/tsfile/live/0132_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="联通源",东南卫视
+http://221.213.95.4:85/tsfile/live/0123_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="联通源",贵州卫视
+http://221.213.95.4:85/tsfile/live/0139_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="联通源",广东卫视
+http://221.213.95.4:85/tsfile/live/0125_2.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="联通源",河南卫视
+http://221.213.95.4:85/tsfile/live/0120_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="联通源",吉林卫视
+http://221.213.95.4:85/tsfile/live/0125_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="联通源",山西卫视
+http://221.213.95.4:85/tsfile/live/0139_2.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="联通源",河北卫视
+http://221.213.95.4:85/tsfile/live/0116_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="联通源",广西卫视
+http://221.213.95.4:85/tsfile/live/0118_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="联通源",陕西卫视
+http://221.213.95.4:85/tsfile/live/0136_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="联通源",甘肃卫视
+http://221.213.95.4:85/tsfile/live/0109_2.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="联通源",青海卫视
+http://221.213.95.4:85/tsfile/live/0140_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="联通源",内蒙古卫视
+http://221.213.95.4:85/tsfile/live/0141_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="联通源",新疆卫视
+http://221.213.95.4:85/tsfile/live/0112_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="联通源",西藏卫视
+http://221.213.95.4:85/tsfile/live/0109_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="联通源",海南卫视
+http://221.213.95.4:85/tsfile/live/1003_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="联通源",厦门卫视
+http://221.213.95.4:85/tsfile/live/0115_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="联通源",金鹰卡通
+http://221.213.95.4:85/tsfile/live/1005_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="联通源",优漫卡通
+http://221.213.95.4:85/tsfile/live/1007_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="联通源",嘉佳卡通
+http://221.213.95.4:85/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="联通源",CCTV1
+http://221.213.93.196:85/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="联通源",CCTV2
+http://221.213.93.196:85/tsfile/live/0002_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="联通源",CCTV3
+http://221.213.93.196:85/tsfile/live/0003_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="联通源",CCTV4
+http://221.213.93.196:85/tsfile/live/0004_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="联通源",CCTV5
+http://221.213.93.196:85/tsfile/live/0005_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="联通源",CCTV6
+http://221.213.93.196:85/tsfile/live/0006_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="联通源",CCTV7
+http://221.213.93.196:85/tsfile/live/0007_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="联通源",CCTV8
+http://221.213.93.196:85/tsfile/live/0008_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="联通源",CCTV9
+http://221.213.93.196:85/tsfile/live/0009_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="联通源",CCTV10
+http://221.213.93.196:85/tsfile/live/0010_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="联通源",CCTV11
+http://221.213.93.196:85/tsfile/live/0011_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="联通源",CCTV12
+http://221.213.93.196:85/tsfile/live/0012_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="联通源",CCTV13
+http://221.213.93.196:85/tsfile/live/0013_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="联通源",CCTV14
+http://221.213.93.196:85/tsfile/live/0014_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="联通源",CCTV15
+http://221.213.93.196:85/tsfile/live/0015_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="联通源",云南卫视
+http://221.213.93.196:85/tsfile/live/0018_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="联通源",浙江卫视
+http://221.213.93.196:85/tsfile/live/0128_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="联通源",江苏卫视
+http://221.213.93.196:85/tsfile/live/0127_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="联通源",湖南卫视
+http://221.213.93.196:85/tsfile/live/0122_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="联通源",东方卫视
+http://221.213.93.196:85/tsfile/live/0107_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="联通源",北京卫视
+http://221.213.93.196:85/tsfile/live/0130_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="联通源",天津卫视
+http://221.213.93.196:85/tsfile/live/0122_2.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="联通源",安徽卫视
+http://221.213.93.196:85/tsfile/live/0135_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="联通源",深圳卫视
+http://221.213.93.196:85/tsfile/live/0126_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="联通源",重庆卫视
+http://221.213.93.196:85/tsfile/live/0138_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="联通源",山东卫视
+http://221.213.93.196:85/tsfile/live/0126_2.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="联通源",辽宁卫视
+http://221.213.93.196:85/tsfile/live/0142_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="联通源",湖北卫视
+http://221.213.93.196:85/tsfile/live/0121_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="联通源",四川卫视
+http://221.213.93.196:85/tsfile/live/0143_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="联通源",黑龙江卫视
+http://221.213.93.196:85/tsfile/live/0132_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="联通源",东南卫视
+http://221.213.93.196:85/tsfile/live/0123_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="联通源",贵州卫视
+http://221.213.93.196:85/tsfile/live/0139_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="联通源",广东卫视
+http://221.213.93.196:85/tsfile/live/0125_2.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="联通源",河南卫视
+http://221.213.93.196:85/tsfile/live/0120_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="联通源",吉林卫视
+http://221.213.93.196:85/tsfile/live/0125_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="联通源",山西卫视
+http://221.213.93.196:85/tsfile/live/0139_2.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="联通源",河北卫视
+http://221.213.93.196:85/tsfile/live/0116_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="联通源",广西卫视
+http://221.213.93.196:85/tsfile/live/0118_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="联通源",陕西卫视
+http://221.213.93.196:85/tsfile/live/0136_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="联通源",甘肃卫视
+http://221.213.93.196:85/tsfile/live/0109_2.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="联通源",青海卫视
+http://221.213.93.196:85/tsfile/live/0140_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="联通源",内蒙古卫视
+http://221.213.93.196:85/tsfile/live/0141_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="联通源",新疆卫视
+http://221.213.93.196:85/tsfile/live/0112_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="联通源",西藏卫视
+http://221.213.93.196:85/tsfile/live/0109_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="联通源",海南卫视
+http://221.213.93.196:85/tsfile/live/1003_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="联通源",厦门卫视
+http://221.213.93.196:85/tsfile/live/0115_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="联通源",金鹰卡通
+http://221.213.93.196:85/tsfile/live/1005_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="联通源",优漫卡通
+http://221.213.93.196:85/tsfile/live/1007_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="联通源",嘉佳卡通
+http://221.213.93.196:85/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="联通源",CCTV1
+http://221.213.93.136:85/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="联通源",CCTV2
+http://221.213.93.136:85/tsfile/live/0002_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="联通源",CCTV3
+http://221.213.93.136:85/tsfile/live/0003_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="联通源",CCTV4
+http://221.213.93.136:85/tsfile/live/0004_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="联通源",CCTV5
+http://221.213.93.136:85/tsfile/live/0005_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="联通源",CCTV6
+http://221.213.93.136:85/tsfile/live/0006_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="联通源",CCTV7
+http://221.213.93.136:85/tsfile/live/0007_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="联通源",CCTV8
+http://221.213.93.136:85/tsfile/live/0008_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="联通源",CCTV9
+http://221.213.93.136:85/tsfile/live/0009_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="联通源",CCTV10
+http://221.213.93.136:85/tsfile/live/0010_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="联通源",CCTV11
+http://221.213.93.136:85/tsfile/live/0011_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="联通源",CCTV12
+http://221.213.93.136:85/tsfile/live/0012_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="联通源",CCTV13
+http://221.213.93.136:85/tsfile/live/0013_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="联通源",CCTV14
+http://221.213.93.136:85/tsfile/live/0014_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="联通源",CCTV15
+http://221.213.93.136:85/tsfile/live/0015_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="联通源",云南卫视
+http://221.213.93.136:85/tsfile/live/0018_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="联通源",浙江卫视
+http://221.213.93.136:85/tsfile/live/0128_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="联通源",江苏卫视
+http://221.213.93.136:85/tsfile/live/0127_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="联通源",湖南卫视
+http://221.213.93.136:85/tsfile/live/0122_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="联通源",东方卫视
+http://221.213.93.136:85/tsfile/live/0107_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="联通源",北京卫视
+http://221.213.93.136:85/tsfile/live/0130_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="联通源",天津卫视
+http://221.213.93.136:85/tsfile/live/0122_2.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="联通源",安徽卫视
+http://221.213.93.136:85/tsfile/live/0135_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="联通源",深圳卫视
+http://221.213.93.136:85/tsfile/live/0126_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="联通源",重庆卫视
+http://221.213.93.136:85/tsfile/live/0138_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="联通源",山东卫视
+http://221.213.93.136:85/tsfile/live/0126_2.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="联通源",辽宁卫视
+http://221.213.93.136:85/tsfile/live/0142_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="联通源",湖北卫视
+http://221.213.93.136:85/tsfile/live/0121_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="联通源",四川卫视
+http://221.213.93.136:85/tsfile/live/0143_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="联通源",黑龙江卫视
+http://221.213.93.136:85/tsfile/live/0132_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="联通源",东南卫视
+http://221.213.93.136:85/tsfile/live/0123_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="联通源",贵州卫视
+http://221.213.93.136:85/tsfile/live/0139_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="联通源",广东卫视
+http://221.213.93.136:85/tsfile/live/0125_2.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="联通源",河南卫视
+http://221.213.93.136:85/tsfile/live/0120_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="联通源",吉林卫视
+http://221.213.93.136:85/tsfile/live/0125_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="联通源",山西卫视
+http://221.213.93.136:85/tsfile/live/0139_2.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="联通源",河北卫视
+http://221.213.93.136:85/tsfile/live/0116_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="联通源",广西卫视
+http://221.213.93.136:85/tsfile/live/0118_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="联通源",陕西卫视
+http://221.213.93.136:85/tsfile/live/0136_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="联通源",甘肃卫视
+http://221.213.93.136:85/tsfile/live/0109_2.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="联通源",青海卫视
+http://221.213.93.136:85/tsfile/live/0140_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="联通源",内蒙古卫视
+http://221.213.93.136:85/tsfile/live/0141_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="联通源",新疆卫视
+http://221.213.93.136:85/tsfile/live/0112_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="联通源",西藏卫视
+http://221.213.93.136:85/tsfile/live/0109_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="联通源",海南卫视
+http://221.213.93.136:85/tsfile/live/1003_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="联通源",厦门卫视
+http://221.213.93.136:85/tsfile/live/0115_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="联通源",金鹰卡通
+http://221.213.93.136:85/tsfile/live/1005_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="联通源",优漫卡通
+http://221.213.93.136:85/tsfile/live/1007_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="联通源",嘉佳卡通
+http://221.213.93.136:85/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
