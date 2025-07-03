@@ -1,0 +1,175 @@
+#EXTM3U
+#EXTINF:-1 group-title="电信源",CCTV-1
+http://60.172.83.86:8686/rtp/238.1.78.166:7200
+#EXTINF:-1 group-title="电信源",CCTV-2
+http://60.172.83.86:8686/rtp/238.1.78.235:7752
+#EXTINF:-1 group-title="电信源",CCTV-3
+http://60.172.83.86:8686/rtp/238.1.78.170:7232
+#EXTINF:-1 group-title="电信源",CCTV-4
+http://60.172.83.86:8686/rtp/238.1.78.236:7760
+#EXTINF:-1 group-title="电信源",CCTV-5
+http://60.172.83.86:8686/rtp/238.1.78.171:7240
+#EXTINF:-1 group-title="电信源",CCTV-5+
+http://60.172.83.86:8686/rtp/238.1.78.237:7768
+#EXTINF:-1 group-title="电信源",CCTV-6
+http://60.172.83.86:8686/rtp/238.1.78.172:7248
+#EXTINF:-1 group-title="电信源",CCTV-7
+http://60.172.83.86:8686/rtp/238.1.78.239:7784
+#EXTINF:-1 group-title="电信源",CCTV-8
+http://60.172.83.86:8686/rtp/238.1.78.173:7256
+#EXTINF:-1 group-title="电信源",CCTV-9
+http://60.172.83.86:8686/rtp/238.1.78.240:7792
+#EXTINF:-1 group-title="电信源",CCTV-10
+http://60.172.83.86:8686/rtp/238.1.78.241:7800
+#EXTINF:-1 group-title="电信源",CCTV-11
+http://60.172.83.86:8686/rtp/238.1.78.206:7502
+#EXTINF:-1 group-title="电信源",CCTV-12
+http://60.172.83.86:8686/rtp/238.1.78.242:7808
+#EXTINF:-1 group-title="电信源",CCTV-13
+http://60.172.83.86:8686/rtp/238.1.79.35:4392
+#EXTINF:-1 group-title="电信源",CCTV-14
+http://60.172.83.86:8686/rtp/238.1.78.243:7816
+#EXTINF:-1 group-title="电信源",CCTV-15
+http://60.172.83.86:8686/rtp/238.1.78.222:7648
+#EXTINF:-1 group-title="电信源",CCTV-17
+http://60.172.83.86:8686/rtp/238.1.78.178:7296
+#EXTINF:-1 group-title="电信源",CGTN
+http://60.172.83.86:8686/rtp/238.1.78.50:6272
+#EXTINF:-1 group-title="电信源",CCTV电视指南
+http://60.172.83.86:8686/rtp/238.1.79.53:4560
+#EXTINF:-1 group-title="电信源",CCTV央视文化精品
+http://60.172.83.86:8686/rtp/238.1.79.54:4568
+#EXTINF:-1 group-title="电信源",CCTV女性时尚
+http://60.172.83.86:8686/rtp/238.1.79.55:4576
+#EXTINF:-1 group-title="电信源",CCTV兵器科技
+http://60.172.83.86:8686/rtp/238.1.79.56:4584
+#EXTINF:-1 group-title="电信源",CCTV风云足球
+http://60.172.83.86:8686/rtp/238.1.79.57:4592
+#EXTINF:-1 group-title="电信源",CCTV世界地理
+http://60.172.83.86:8686/rtp/238.1.79.60:4616
+#EXTINF:-1 group-title="电信源",CCTV怀旧剧场
+http://60.172.83.86:8686/rtp/238.1.79.61:4624
+#EXTINF:-1 group-title="电信源",CCTV风云剧场
+http://60.172.83.86:8686/rtp/238.1.79.62:4632
+#EXTINF:-1 group-title="电信源",CCTV第一剧场
+http://60.172.83.86:8686/rtp/238.1.79.63:4640
+#EXTINF:-1 group-title="电信源",CCTV风云音乐
+http://60.172.83.86:8686/rtp/238.1.79.64:4648
+#EXTINF:-1 group-title="电信源",CCTV高尔夫网球
+http://60.172.83.86:8686/rtp/238.1.79.58:4600
+#EXTINF:-1 group-title="电信源",CCTV央视台球
+http://60.172.83.86:8686/rtp/238.1.79.59:4608
+#EXTINF:-1 group-title="电信源",中国教育CETV-1
+http://60.172.83.86:8686/rtp/238.1.78.158:7136
+#EXTINF:-1 group-title="电信源",中国教育CETV-2
+http://60.172.83.86:8686/rtp/238.1.78.106:6720
+#EXTINF:-1 group-title="电信源",空中课堂CETV-4
+http://60.172.83.86:8686/rtp/238.1.78.107:6728
+#EXTINF:-1 group-title="电信源",安徽卫视
+http://60.172.83.86:8686/rtp/238.1.79.27:4328
+#EXTINF:-1 group-title="电信源",北京卫视
+http://60.172.83.86:8686/rtp/238.1.78.162:7168
+#EXTINF:-1 group-title="电信源",天津卫视
+http://60.172.83.86:8686/rtp/238.1.78.20:6088
+#EXTINF:-1 group-title="电信源",重庆卫视
+http://60.172.83.86:8686/rtp/238.1.78.31:6176
+#EXTINF:-1 group-title="电信源",东方卫视
+http://60.172.83.86:8686/rtp/238.1.78.163:7176
+#EXTINF:-1 group-title="电信源",安徽卫视
+http://60.172.83.86:8686/rtp/238.1.78.150:7072
+#EXTINF:-1 group-title="电信源",江苏卫视
+http://60.172.83.86:8686/rtp/238.1.78.165:7192
+#EXTINF:-1 group-title="电信源",浙江卫视
+http://60.172.83.86:8686/rtp/238.1.78.164:7184
+#EXTINF:-1 group-title="电信源",黑龙江卫视
+http://60.172.83.86:8686/rtp/238.1.78.159:7144
+#EXTINF:-1 group-title="电信源",吉林卫视
+http://60.172.83.86:8686/rtp/238.1.79.48:4496
+#EXTINF:-1 group-title="电信源",辽宁卫视
+http://60.172.83.86:8686/rtp/238.1.78.21:6096
+#EXTINF:-1 group-title="电信源",东南卫视
+http://60.172.83.86:8686/rtp/238.1.78.22:6104
+#EXTINF:-1 group-title="电信源",四川卫视
+http://60.172.83.86:8686/rtp/238.1.78.30:6168
+#EXTINF:-1 group-title="电信源",江西卫视
+http://60.172.83.86:8686/rtp/238.1.78.26:6136
+#EXTINF:-1 group-title="电信源",广东卫视
+http://60.172.83.86:8686/rtp/238.1.78.161:7160
+#EXTINF:-1 group-title="电信源",海南卫视
+http://60.172.83.86:8686/rtp/238.1.79.49:4504
+#EXTINF:-1 group-title="电信源",湖北卫视
+http://60.172.83.86:8686/rtp/238.1.78.168:7216
+#EXTINF:-1 group-title="电信源",湖南卫视
+http://60.172.83.86:8686/rtp/238.1.78.160:7152
+#EXTINF:-1 group-title="电信源",贵州卫视
+http://60.172.83.86:8686/rtp/238.1.78.244:7824
+#EXTINF:-1 group-title="电信源",河北卫视
+http://60.172.83.86:8686/rtp/238.1.78.245:7832
+#EXTINF:-1 group-title="电信源",河南卫视
+http://60.172.83.86:8686/rtp/238.1.79.65:4632
+#EXTINF:-1 group-title="电信源",山东卫视
+http://60.172.83.86:8686/rtp/238.1.78.169:7224
+#EXTINF:-1 group-title="电信源",甘肃卫视
+http://60.172.83.86:8686/rtp/238.1.79.36:4400
+#EXTINF:-1 group-title="电信源",陕西卫视
+http://60.172.83.86:8686/rtp/238.1.78.88:6576
+#EXTINF:-1 group-title="电信源",云南卫视
+http://60.172.83.86:8686/rtp/238.1.78.89:6584
+#EXTINF:-1 group-title="电信源",山西卫视
+http://60.172.83.86:8686/rtp/238.1.78.95:6632
+#EXTINF:-1 group-title="电信源",青海卫视
+http://60.172.83.86:8686/rtp/238.1.78.102:6688
+#EXTINF:-1 group-title="电信源",广西卫视
+http://60.172.83.86:8686/rtp/238.1.78.70:6432
+#EXTINF:-1 group-title="电信源",内蒙古卫视
+http://60.172.83.86:8686/rtp/238.1.78.103:6696
+#EXTINF:-1 group-title="电信源",宁夏卫视
+http://60.172.83.86:8686/rtp/238.1.78.109:6744
+#EXTINF:-1 group-title="电信源",新疆卫视
+http://60.172.83.86:8686/rtp/238.1.78.110:6752
+#EXTINF:-1 group-title="电信源",西藏卫视
+http://60.172.83.86:8686/rtp/238.1.78.101:6680
+#EXTINF:-1 group-title="电信源",深圳卫视
+http://60.172.83.86:8686/rtp/238.1.78.156:7120
+#EXTINF:-1 group-title="电信源",兵团卫视
+http://60.172.83.86:8686/rtp/238.1.78.104:6704
+#EXTINF:-1 group-title="电信源",三沙卫视
+http://60.172.83.86:8686/rtp/238.1.78.27:6144
+#EXTINF:-1 group-title="电信源",厦门卫视
+http://60.172.83.86:8686/rtp/238.1.78.246:7840
+#EXTINF:-1 group-title="电信源",动漫秀场
+http://60.172.83.86:8686/rtp/238.1.78.154:7104
+#EXTINF:-1 group-title="电信源",金鹰纪实
+http://60.172.83.86:8686/rtp/238.1.79.9:4184
+#EXTINF:-1 group-title="电信源",茶频道
+http://60.172.83.86:8686/rtp/238.1.79.30:4352
+#EXTINF:-1 group-title="电信源",快乐垂钓
+http://60.172.83.86:8686/rtp/238.1.79.31:4360
+#EXTINF:-1 group-title="电信源",生活时尚
+http://60.172.83.86:8686/rtp/238.1.78.155:7112
+#EXTINF:-1 group-title="电信源",体育赛事
+http://60.172.83.86:8686/rtp/238.1.78.33:6192
+#EXTINF:-1 group-title="电信源",中甲联赛
+http://60.172.83.86:8686/rtp/238.1.79.39:4424
+#EXTINF:-1 group-title="电信源",卡酷少儿
+http://60.172.83.86:8686/rtp/238.1.78.97:6648
+#EXTINF:-1 group-title="电信源",哈哈炫动
+http://60.172.83.86:8686/rtp/238.1.78.82:6528
+#EXTINF:-1 group-title="电信源",金鹰卡通
+http://60.172.83.86:8686/rtp/238.1.78.100:6672
+#EXTINF:-1 group-title="电信源",山东教育卫视
+http://60.172.83.86:8686/rtp/238.1.78.254:7904
+#EXTINF:-1 group-title="电信源",财富天下
+http://60.172.83.86:8686/rtp/238.1.78.25:6128
+#EXTINF:-1 group-title="电信源",东方财*浦东
+http://60.172.83.86:8686/rtp/238.1.78.73:6456
+#EXTINF:-1 group-title="电信源",都市剧场
+http://60.172.83.86:8686/rtp/238.1.78.74:6464
+#EXTINF:-1 group-title="电信源",金色频道
+http://60.172.83.86:8686/rtp/238.1.78.76:6480
+#EXTINF:-1 group-title="电信源",游戏风云
+http://60.172.83.86:8686/rtp/238.1.78.81:6520
+#EXTINF:-1 group-title="电信源",法治天地
+http://60.172.83.86:8686/rtp/238.1.78.84:6544
+#EXTINF:-1 group-title="电信源",七彩戏剧
+http://60.172.83.86:8686/rtp/238.1.78.85:6552
