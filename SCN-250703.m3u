@@ -269,9 +269,9 @@ http://live2.rxip.sc96655.com/live/emdygqH265_4000.m3u8?E=1705228046&U=741795b2-
 http://live2.rxip.sc96655.com/live/emdygqH265_4000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=dd
 #EXTINF:-1 group-title="四川广电",峨眉电影
 http://live2.rxip.sc96655.com/live/emdygqH265_4000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=dd
-#EXTINF:-1 group-title="四川广电",文化旅游
+#EXTINF:-1 group-title="四川广电",四川经济
 http://live2.rxip.sc96655.com/live/SCTV-2-H265_4000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=dd
-#EXTINF:-1 group-title="四川广电",文化旅游
+#EXTINF:-1 group-title="四川广电",四川经济
 http://live2.rxip.sc96655.com/live/SCTV-3-H265_4000.m3u8?E=1705227938&U=417cccfd-ffa6-4483-b309-5f955b0f0f41&A=2&K=14&P=011&S=dd
 #EXTINF:-1 group-title="四川广电",四川乡村
 http://live2.rxip.sc96655.com/live/SCTV-kjSCTV-9-_4000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=dd
@@ -279,19 +279,17 @@ http://live2.rxip.sc96655.com/live/SCTV-kjSCTV-9-_4000.m3u8?E=1705228046&U=74179
 http://live2.rxip.sc96655.com/live/kbwsH264_2000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=dd
 #EXTINF:-1 group-title="四川广电",四川科教
 http://live2.rxip.sc96655.com/live/SCTV-ggSCTV-8_4000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=dd
-#EXTINF:-1 group-title="四川广电",教育频道
-http://live2.rxip.sc96655.com/live/CCTV-1H265_4000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=dd
-#EXTINF:-1 group-title="四川广电",成都新闻
+#EXTINF:-1 group-title="四川广电",CDTV-1
 http://live2.rxip.sc96655.com/live/CDTV-1_4000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=dd
-#EXTINF:-1 group-title="四川广电",成都新闻
+#EXTINF:-1 group-title="四川广电",CDTV-1
 http://live2.rxip.sc96655.com/live/CDTV-1_4000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=dd
-#EXTINF:-1 group-title="四川广电",成都经济
+#EXTINF:-1 group-title="四川广电",CDTV-2
 http://live2.rxip.sc96655.com/live/CDTV-2_4000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=dd
-#EXTINF:-1 group-title="四川广电",成都经济
+#EXTINF:-1 group-title="四川广电",CDTV-2
 http://live2.rxip.sc96655.com/live/CDTV-2_4000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=dd
-#EXTINF:-1 group-title="四川广电",成都生活
+#EXTINF:-1 group-title="四川广电",CDTV-3
 http://live2.rxip.sc96655.com/live/CDTV-3_4000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=dd
-#EXTINF:-1 group-title="四川广电",成都生活
+#EXTINF:-1 group-title="四川广电",CDTV-3
 http://live2.rxip.sc96655.com/live/CDTV-3_4000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=dd
 #EXTINF:-1 group-title="四川广电",成都影视
 http://live2.rxip.sc96655.com/live/CDTV-4_4000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=dd
@@ -307,7 +305,7 @@ http://live2.rxip.sc96655.com/live/SCTV-2-H265_4000.m3u8?E=1705228046&U=741795b2
 http://live2.rxip.sc96655.com/live/SCTV-3-H265_4000.m3u8?E=1705227938&U=417cccfd-ffa6-4483-b309-5f955b0f0f41&A=2&K=14&P=011&S=dd
 #EXTINF:-1 group-title="四川广电",四川新闻
 http://live2.rxip.sc96655.com/live/SCTV-4H265_4000.m3u8?E=1705228069&U=439326a6-60ed-40f8-99ca-d1d7b797a97d&A=2&K=8&P=011&S=dd
-#EXTINF:-1 group-title="四川广电",四川星空购物
+#EXTINF:-1 group-title="四川广电",星空购物
 http://live2.rxip.sc96655.com/live/xkgwgq_4000.m3u8?E=1705228176&U=32fd91f9-7d9b-4d7e-a613-ef239b2c54a5&A=2&K=11&P=011&S=dd
 #EXTINF:-1 group-title="四川广电",SCTV-7
 http://live2.rxip.sc96655.com/live/SCTV-7-_4000.m3u8?E=1705228207&U=689ed02d-db2d-4448-bd47-310e9ca285e8&A=1&K=11&P=011&S=dd
